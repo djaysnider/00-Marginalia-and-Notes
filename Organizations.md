@@ -1,0 +1,147 @@
+# Organizations
+
+Series-wide working register — started 2026-10-04.
+
+## Scope and evidence
+
+Initial pass across the twelve novel repositories and both Apocrypha repositories (315 Markdown files). This is a growing continuity register, not a claim that every unnamed group or incidental business has been captured. Source links point to current repository files. Manuscript prose takes precedence over outlines, synopses, and author notes; a chapter may itself contain unfinished notes. An occurrence establishes that a name is used, not that every claim a character makes about it is true.
+
+The descriptions below separate corporations, state institutions, resistance/criminal groups, and local establishments. Descriptive placeholders are marked as unnamed. Source lists are representative rather than every occurrence. When revising, add headquarters/jurisdiction, leadership by date, fronts, funding, allies/rivals, and changes in membership only when supported by prose or an explicit author decision.
+
+## Companies and corporate organizations
+
+| Name / variants | Established role or continuity caution | Representative sources |
+|---|---|---|
+| Locke Industries / Locke Corporation | Sylvester Locke’s corporation; Directorate political influence. Preserve both forms pending naming decision. | [02: 06 The Bust](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/06%20The%20Bust.md); [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Bonai Saigo Corporation | Procyon-based corporation used in Clay’s Girard cover. Life-model/bio-preservation specialization is tentative in an author footnote. | [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md); [01: 04 Maguro](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Maguro.md) |
+| Shimizu Synthesis | Biomedical components and chemicals; Sem Talbot and the Shard supply chain. | [01: 09 Yishi Party](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/09%20Yishi%20Party.md); [01: 12 Shimizu](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Shimizu.md) |
+| Noctivo Systems | Dreamspinner-related company; customer support and dream supervision appear in Incubus. | [02: 05 Noctivo](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/05%20Noctivo.md); [02: 07 Billy](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/07%20Billy.md) |
+| Alabron / Alibron | Historical preservation society with archives and datacenters; covert research/contingency role. Investor in Ravenhold; Halferne serves on both boards. Spelling unresolved. | [02: 40 DeBord](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/40%20DeBord.md); [04: 40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md); [06: 12 Domante](https://github.com/djaysnider/06-The-Halferne-Bodhi/blob/main/12%20Domante.md) |
+| Ravenhold Sovereign / Soverign | Intersystem holding company associated with the Lambda Tonitrus claim; Alibron is a primary investor. | [04: 22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [04: 37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md) |
+| Tesnica Enterprises | Manufacturing/design conglomerate; Marten Clerc’s weapons-design employer. | [03: 03 Clerc](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/03%20Clerc.md) |
+| Vantaris Collective | Aurian scientific/technical research company; Thoughtbridge and ArcoKorab offices. | [03: 12 The Ask](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/12%20The%20Ask.md); [03: Outline -03- The Halferne Deception](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/Outline%20-03-%20The%20Halferne%20Deception.md) |
+| De Boer Diagnostics | Company behind Alayn de Boer’s inherited fortune; operational details not established here. | [03: 24 Vyn's](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/24%20Vyn's.md); [03: Outline -03- The Halferne Deception](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/Outline%20-03-%20The%20Halferne%20Deception.md) |
+| Peredon Industries | Former security employer of Helena; connects her to the Cwen. | [07: 18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20(Enter%20Helena).md) |
+| Dismuke Pharmaceuticals | Mel holds a board position; financially supports care facilities. Do not infer ownership of Elysium. | [12: 09 Kat's Escape](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/09%20Kat's%20Escape.md) |
+
+## Criminal, insurgent, and resistance organizations
+
+| Name / variants | Established role or continuity caution | Representative sources |
+|---|---|---|
+| Cerberus Syndicate | Notosian criminal power with industrial and military reach; Fatima Omari is a major leader in Perfidy. | [02: 20 (Parrino F&G)](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/20%20(Parrino%20F%26G).md); [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Jade Shield | Markus Klein’s faction; intellectual/cultural subversion and university black markets, as well as criminal/religious associations. | [01: 04 Maguro](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Maguro.md); [01: 12 Shimizu](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Shimizu.md) |
+| Tachibana’s Shadow | Notosian faction destabilized by Tachibana’s death. | [01: 08 Cipher](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/08%20Cipher.md); [01: 09 Yishi Party](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/09%20Yishi%20Party.md) |
+| Dark Serpent | Notosian faction; implicated in competing accounts of violence. | [01: 13 Prudence](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/13%20Prudence.md); [01: 15 Klein](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/15%20Klein.md) |
+| Eyes of Baal | Harba City anti-government faction. Mother Eye attributes actions to it; accusation is not proof of responsibility. | [01: 10 Pursuit](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/10%20Pursuit.md); [01: 13 Prudence](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/13%20Prudence.md) |
+| Avengers of Red Mountain | Named among the factions claimed as part of the Notosian Liberation Front. | [01: 16 Warning](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/16%20Warning.md); [01: 17 Vivaine](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/17%20Vivaine.md) |
+| Gi-no Gunzei | Named among the factions claimed as part of the Notosian Liberation Front. | [01: 07 Hostel](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/07%20Hostel.md); [01: 16 Warning](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/16%20Warning.md) |
+| Notosian Liberation Front / Noto Lib | Umbrella liberation movement linked to Saleh/Obryn. Coalition membership and public claims should be dated to the scene. | [01: 28 Gu’Senlin](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/28%20Gu%E2%80%99Senlin.md); [01: 29 Norinaga](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/29%20Norinaga.md) |
+| Black Scorpion Syndicate | Mentioned as a feared criminal organization in Deception; little operational detail. | [03: 04 Mechanic](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/04%20Mechanic.md) |
+| Celestial Veil | Mentioned in Deception as a dangerous criminal comparator; little operational detail. | [03: 04 Mechanic](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/04%20Mechanic.md) |
+| Tarikhain Syndicate | Aurian criminal organization backing Sian Bevan and influencing the resistance; profits affect its relationship with occupation authorities. | [11: 07 Return to Vyn's](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/07%20Return%20to%20Vyn's.md); [12: 11 Return to Vyn's](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/11%20Return%20to%20Vyn's.md) |
+| Korab Liberation Front | Aurian resistance organization; Sian Bevan took leadership with syndicate backing, displacing Rik/Tiron. | [12: 11 Return to Vyn's](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/11%20Return%20to%20Vyn's.md) |
+| R47 / R-47 | Aurian resistance movement associated with Faran. Occupation broadcasts call it a terrorist group; retain that attribution rather than a neutral moral classification. | [11: 06 Tiron’s Mission](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/06%20Tiron%E2%80%99s%20Mission.md); [12: 10 Outbound Flight](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/10%20Outbound%20Flight.md) |
+| Surato clan / family | Crime family associated with Ocara in Apocrypha. His wider employer must not automatically be identified with the family. | [14: 11 Omega Unit](https://github.com/djaysnider/14-Apocrypha/blob/main/11%20Omega%20Unit.md); [14: 20 Rik and Jaysn](https://github.com/djaysnider/14-Apocrypha/blob/main/20%20Rik%20and%20Jaysn.md) |
+
+## Sol government, intelligence, and law enforcement
+
+| Name / variants | Established role or continuity caution | Representative sources |
+|---|---|---|
+| Sol Directorate | Political umbrella. Keep its constituent departments and corporations distinct. | [05: 03 (Kat)](https://github.com/djaysnider/05-The-Halferne-Imprecation/blob/main/03%20(Kat).md); [02: 07 Billy](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/07%20Billy.md); [04: 03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md) |
+| Directorate Council | Directorate governing council; Locke’s corporate/political role matters. | [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Directorate Oversight Committee | Named oversight body; precise remit should follow individual scenes. | [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Division of Commerce / DoC | Directorate commerce agency involved in permits/waivers. | [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Sol Directorate Defense Department | Parent defense institution; departmental/divisional hierarchy needs consistent naming. | [05: 03 (Kat)](https://github.com/djaysnider/05-The-Halferne-Imprecation/blob/main/03%20(Kat).md); [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Division 5 | Directorate foreign intelligence service; Clay’s affiliation. | [02: 09 Precinct](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/09%20Precinct.md); [13: 06 After the Labyrinth](https://github.com/djaysnider/13-Apocrypha/blob/main/06%20After%20the%20Labyrinth.md); [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Division 4 | Directorate domestic intelligence/threat role; plot involvement does not make all personnel a single conspiracy. | [02: 09 Precinct](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/09%20Precinct.md); [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Third Operations Division | Military division mentioned in Imprecation. | [05: 03 (Kat)](https://github.com/djaysnider/05-The-Halferne-Imprecation/blob/main/03%20(Kat).md) |
+| Sol Directorate Engineering Corps / SDEC | Directorate expedition engineering organization. | [04: 03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md); [04: 04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md) |
+| Corps of Engineers and Expedition Logistics | Expedition staffing/administrative designation; relationship to SDEC requires confirmation. | [04: 08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md) |
+| London police — naming variants | Incubus police service; Metro/Metroplex/Metropolitan wording should be reconciled. | [02: 06 The Bust](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/06%20The%20Bust.md); [02: 33 Station](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/33%20Station.md) |
+| Soho Tower Police | Local police designation in Incubus; likely London jurisdiction, but hierarchy not assumed. | [02: 13 Conners](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/13%20Conners.md) |
+| Gate Station Authority | Station administrative/security authority; record individual station jurisdiction when expanding. | [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
+| Spaceport / Starport Authority | Port authority designations; do not treat all planetary ports as one interstellar agency. | [01: 05 Scouting](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/05%20Scouting.md); [01: 06 La Terreur](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/06%20La%20Terreur.md) |
+
+## Aurian institutions and military organizations
+
+| Name / variants | Established role or continuity caution | Representative sources |
+|---|---|---|
+| Ministry of Defense / Defense Ministry | Aurian defense institution; a civilian ministry distinct from palace guards. | [07: 04 Intro Bryn](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/04%20Intro%20Bryn.md); [10: 03 (Thurin)](https://github.com/djaysnider/10-The-Prevo-Contingency/blob/main/03%20(Thurin).md); [08: 06 Invasion](https://github.com/djaysnider/08-The-Auria-Descension/blob/main/06%20Invasion.md) |
+| Ministry of Internal Affairs | Fenzo’s actual ministry; participates in a joint operation with Defense. | [07: 07 (Kirch and Peretz)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/07%20(Kirch%20and%20Peretz).md); [07: 09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20(The%20Trigger).md) |
+| Trade Ministry | Aurian trade institution. | [07: 04 Intro Bryn](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/04%20Intro%20Bryn.md) |
+| Aurian Royal Marine Corps | Aurian military service. | [07: 13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20(Serah%E2%80%99s%20Debate).md); [10: 03 (Thurin)](https://github.com/djaysnider/10-The-Prevo-Contingency/blob/main/03%20(Thurin).md); [14: 17 Faran Again](https://github.com/djaysnider/14-Apocrypha/blob/main/17%20Faran%20Again.md) |
+| Royal Marine Corps of Engineers | Engineering formation; retain separately from the Directorate engineering corps. | [03: 07 Rik and Krisp](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/07%20Rik%20and%20Krisp.md); [03: Outline -03- The Halferne Deception](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/Outline%20-03-%20The%20Halferne%20Deception.md) |
+| Star Corps | Aurian space service; navigator’s testimony in Descension. | [08: 09 Rhapsody](https://github.com/djaysnider/08-The-Auria-Descension/blob/main/09%20Rhapsody.md); [08: Outline -08- The Auria Descension](https://github.com/djaysnider/08-The-Auria-Descension/blob/main/Outline%20-08-%20The%20Auria%20Descension.md) |
+| Orbital Command / OrbCom / OrbCon / OC | Military command in Malyon; OrbCon may be spelling drift rather than a separate organization. | [07: 04 Intro Bryn](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/04%20Intro%20Bryn.md); [07: 07 (Kirch and Peretz)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/07%20(Kirch%20and%20Peretz).md) |
+| 27th Special Operations Wing | Helena’s former command. | [07: 18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20(Enter%20Helena).md) |
+| Military Intelligence | Helena’s former analyst service; avoid treating the generic name as universal across polities. | [07: 13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20(Serah%E2%80%99s%20Debate).md); [07: 18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20(Enter%20Helena).md) |
+| Order of the Heart / Royal Guard | Palace protection institution led by Rik; keep Order/Guard terminology and military independence explicit. | [07: 08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20(Serah%20and%20Delanna).md); [11: 05 Old Soldiers](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/05%20Old%20Soldiers.md); [08: 03 Investigation](https://github.com/djaysnider/08-The-Auria-Descension/blob/main/03%20Investigation.md) |
+| Royal Court | Monarchical court; political institution, not synonymous with its protective guard. | [07: 08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20(Serah%20and%20Delanna).md); [11: 08 The Message](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/08%20The%20Message.md); [10: 06 (Possession)](https://github.com/djaysnider/10-The-Prevo-Contingency/blob/main/06%20(Possession).md) |
+| Houses of Parliament | Aurian legislative institution. | [07: 08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20(Serah%20and%20Delanna).md); [07: 14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20(Reception).md) |
+| Aurian Embassy | Diplomatic institution at Midway; distinguish institution from building. | [13: 03 Before the Storm](https://github.com/djaysnider/13-Apocrypha/blob/main/03%20Before%20the%20Storm.md); [10: 04 (Silence)](https://github.com/djaysnider/10-The-Prevo-Contingency/blob/main/04%20(Silence).md); [14: 11 Omega Unit](https://github.com/djaysnider/14-Apocrypha/blob/main/11%20Omega%20Unit.md) |
+
+## Notosian state and occupation organizations
+
+| Name / variants | Established role or continuity caution | Representative sources |
+|---|---|---|
+| Notosian War Council | Notosian leadership body; Yun serves on it, and members pursue Rik’s arrest. | [11: 06 Tiron’s Mission](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/06%20Tiron%E2%80%99s%20Mission.md); [10: 03 (Thurin)](https://github.com/djaysnider/10-The-Prevo-Contingency/blob/main/03%20(Thurin).md); [08: 08 Retreat](https://github.com/djaysnider/08-The-Auria-Descension/blob/main/08%20Retreat.md) |
+| Tokusha / Takusha | Notosian armed/security force associated with Prevo’s regime and Ursza. Bodhi distinguishes these troops from local law enforcement. | [11: 10 (Showdown 1)](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/10%20(Showdown%201).md); [06: 27 The Warrior Rebel](https://github.com/djaysnider/06-The-Halferne-Bodhi/blob/main/27%20The%20Warrior%20Rebel.md); [01: 04 Maguro](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Maguro.md) |
+| Governor Yun’s police / occupation security | Unnamed occupation enforcement apparatus. Descriptive placeholder, not an invented formal agency name. | [12: 10 Outbound Flight](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/10%20Outbound%20Flight.md); [12: 14 (Kat's Choice)](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/14%20(Kat's%20Choice).md) |
+
+## Religious, humanitarian, medical, educational, and media institutions
+
+| Name / variants | Established role or continuity caution | Representative sources |
+|---|---|---|
+| Sacrum Cor | Medical humanitarian organization; Kat and Mel. The St. Pantaleon is a ship, not the organization. | [05: 03 (Kat)](https://github.com/djaysnider/05-The-Halferne-Imprecation/blob/main/03%20(Kat).md); [12: 04 Rememberance](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/04%20Rememberance.md) |
+| Elysium Center for Cognitive Renewal | Kat’s treatment facility; Dismuke’s financial support does not establish corporate ownership. | [12: 09 Kat's Escape](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/09%20Kat's%20Escape.md); [12: 10 Outbound Flight](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/10%20Outbound%20Flight.md) |
+| United World Church / UWC | Religious institution associated with Kasimeras/Casimir and the missionary setting. | [06: 11 Casimir 1](https://github.com/djaysnider/06-The-Halferne-Bodhi/blob/main/11%20Casimir%201.md); [06: 16 Domante](https://github.com/djaysnider/06-The-Halferne-Bodhi/blob/main/16%20Domante.md) |
+| Missionary Diocese of St Nicolas Black Elk / St Nicholas Black Elk Church | Kuutar mission/church associated with Sheng. Diocese and individual church are different institutional levels; Nicolas/Nicholas needs review. | [06: 05 Medic](https://github.com/djaysnider/06-The-Halferne-Bodhi/blob/main/05%20Medic.md); [06: 11 Casimir 1](https://github.com/djaysnider/06-The-Halferne-Bodhi/blob/main/11%20Casimir%201.md) |
+| Gu’Senlin | Monastic/martial order associated with Ursza and Adad. Distinguish order, temple, and martial disciplines. | [11: 04 Debrief](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/04%20Debrief.md); [06: 27 The Warrior Rebel](https://github.com/djaysnider/06-The-Halferne-Bodhi/blob/main/27%20The%20Warrior%20Rebel.md); [13: 04 Purpose and Promise](https://github.com/djaysnider/13-Apocrypha/blob/main/04%20Purpose%20and%20Promise.md) |
+| Norinaga University | Notosian university; Jade Shield’s cultural/black-market ground zero. | [01: 15 Klein](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/15%20Klein.md); [01: 29 Norinaga](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/29%20Norinaga.md) |
+| University Bratislava | Educational institution mentioned in Ondrej’s medical background. | [05: 04 (Bargain)](https://github.com/djaysnider/05-The-Halferne-Imprecation/blob/main/04%20(Bargain).md) |
+| Caerleon Military Academy | Helena’s military academy. | [07: 18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20(Enter%20Helena).md) |
+| Cerberus University — cover-story reference | Named in a cover conversation; existence as a real institution remains unconfirmed. | [01: 12 Shimizu](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Shimizu.md) |
+| Neward and Provident Newsnet Agency / News Agency / NPNA | Serah’s news employer; Earth-based corporation. Full-name variations require a standard. | [02: 07 Billy](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/07%20Billy.md); [07: 05 (Intro Serah)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/05%20(Intro%20Serah).md); [13: 05 Wine, Women, and Song](https://github.com/djaysnider/13-Apocrypha/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md) |
+
+## Named local businesses and establishments
+
+| Name / variants | Established role or continuity caution | Representative sources |
+|---|---|---|
+| Russo’s | Recurring hospitality establishment associated with Russo/Sheng; separate business from proprietor. | [11: 03 Mission Successful](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/03%20Mission%20Successful.md); [13: 01 Cover](https://github.com/djaysnider/13-Apocrypha/blob/main/01%20Cover.md); [10: 04 (Silence)](https://github.com/djaysnider/10-The-Prevo-Contingency/blob/main/04%20(Silence).md) |
+| Vyn’s | Recurring Aurian establishment and meeting place. | [07: 06 (Rik and Sal)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/06%20(Rik%20and%20Sal).md); [11: 07 Return to Vyn's](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/07%20Return%20to%20Vyn's.md); [12: 11 Return to Vyn's](https://github.com/djaysnider/12-The-Prytanus-Liberation/blob/main/11%20Return%20to%20Vyn's.md) |
+| Bed Repairs / Dev’s Repairs | Transport repair business; retain naming uncertainty rather than silently equating every shop label. | [07: 16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20(Serah%E2%80%99s%20Break%20Into%20Two).md); [14: 03 Ambush](https://github.com/djaysnider/14-Apocrypha/blob/main/03%20Ambush.md) |
+| Korab Repulsor Refittings | Named transport-maintenance business. | [07: 16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20(Serah%E2%80%99s%20Break%20Into%20Two).md) |
+| Teidmann’s Transport Maintenance | Named transport-maintenance business. | [07: 16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20(Serah%E2%80%99s%20Break%20Into%20Two).md) |
+| Rube’s | Named establishment; further business/location detail to be confirmed. | [03: 05 Tiron and Bix](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/05%20Tiron%20and%20Bix.md); [03: 08 Rik and Lora](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/08%20Rik%20and%20Lora.md) |
+
+## Unresolved groups and boundary cases
+
+| Name / variants | Established role or continuity caution | Representative sources |
+|---|---|---|
+| Cwen’s ‘other’ court / proposed Omega Unit | Apocrypha covert group. Ursza explicitly rejects Omega Unit as a settled name; record it as a proposed nickname. | [14: 11 Omega Unit](https://github.com/djaysnider/14-Apocrypha/blob/main/11%20Omega%20Unit.md) |
+| Ocara’s unnamed interstellar employer | Apocrypha describes an organization with palace/embassy/Notosian/Gu’Senlin penetration. Not automatically the Surato clan. | [14: 11 Omega Unit](https://github.com/djaysnider/14-Apocrypha/blob/main/11%20Omega%20Unit.md); [14: 20 Rik and Jaysn](https://github.com/djaysnider/14-Apocrypha/blob/main/20%20Rik%20and%20Jaysn.md) |
+| Perichore | Research/project/collective boundary case. Do not automatically classify as a corporation or government. | [06: 20 Domante](https://github.com/djaysnider/06-The-Halferne-Bodhi/blob/main/20%20Domante.md); [09: 04 Training](https://github.com/djaysnider/09-The-Notosia-Trinity/blob/main/04%20Training.md); [01: 02 Epigraph](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/02%20Epigraph.md) |
+| Reclamation | Alien threat/entity/process boundary case; organizational structure is not assumed. | [02: 45 Coparing Notes](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/45%20Coparing%20Notes.md); [04: 34 Reclamation Talk](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/34%20Reclamation%20Talk.md) |
+
+## Continuity questions / punch list
+
+- [ ] Choose **Alabron** or **Alibron**. Both occur across manuscript/supporting material; do not create two entities merely to accommodate the spelling.
+- [ ] Choose **Ravenhold Sovereign** or **Ravenhold Soverign**.
+- [ ] Standardize the full name of **Neward and Provident** and its acronym; distinguish a shortened reference from a conflicting official name.
+- [ ] Standardize London police naming and specify where Soho Tower’s precinct sits in the hierarchy.
+- [ ] Check **OrbCom / OrbCon** against Orbital Command; likely variant wording, not proof of separate commands.
+- [ ] Check **Tokusha / Takusha**, and keep the force distinct from local police.
+- [ ] Clarify the relationship between **Order of the Heart**, **Royal Guard**, and general references to the Royal Order. Preserve its independence from Defense where stated.
+- [ ] Clarify SDEC’s relationship to **Corps of Engineers and Expedition Logistics** rather than assuming synonymous formal names.
+- [ ] Distinguish the Black Elk **diocese** from its **church**, and standardize Nicolas/Nicholas.
+- [ ] Date Notosian coalition memberships and Aurian resistance leadership changes. A later affiliation must not be projected backward.
+- [ ] Keep **R47**’s terrorist label attributed to the speaker/news source; maintain a separate factual record of its acts and leadership.
+- [ ] Treat **Omega Unit** as an explicitly disputed proposed name, and Ocara’s interstellar employer as unresolved.
+
+## Recording rules for future additions
+
+1. Preserve the exact name used and a chapter link before selecting a preferred series-wide spelling.
+2. Separate organization, leader, building, vehicle, SI, and project. Mother Eye, Beithir, and named ships do not become organizations merely because they exercise power.
+3. Record a front’s public function separately from a disclosed covert function. Rumor, propaganda, and a forged cover identity require attribution.
+4. Record affiliations and leadership at the story date. Funding, cooperation, control, and membership are different relationships.
+5. Keep outline-only plans and author-footnote possibilities separate from established prose. Do not promote a speculative business specialization or abandoned plot to canon.
