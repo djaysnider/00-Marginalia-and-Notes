@@ -28,6 +28,7 @@ The descriptions below separate corporations, state institutions, resistance/cri
 
 | Name / variants | Established role or continuity caution | Representative sources |
 |---|---|---|
+| Iron Claw | Criminal organization whose representatives meet Skurv in Incubus; Division 5’s undercover operation intersects Parrino’s bust. Leadership and headquarters not established in these passages. | [02: 06 The Bust](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/06%20The%20Bust.md); [02: 09 Precinct](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/09%20Precinct.md) |
 | Cerberus Syndicate | Notosian criminal power with industrial and military reach; Fatima Omari is a major leader in Perfidy. | [02: 20 (Parrino F&G)](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/20%20(Parrino%20F%26G).md); [01: 03 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/03%20Excipio%20Station.md) |
 | Jade Shield | Markus Klein’s faction; intellectual/cultural subversion and university black markets, as well as criminal/religious associations. | [01: 04 Maguro](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Maguro.md); [01: 12 Shimizu](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Shimizu.md) |
 | Tachibana’s Shadow | Notosian faction destabilized by Tachibana’s death. | [01: 08 Cipher](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/08%20Cipher.md); [01: 09 Yishi Party](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/09%20Yishi%20Party.md) |
@@ -113,6 +114,10 @@ The descriptions below separate corporations, state institutions, resistance/cri
 | Korab Repulsor Refittings | Named transport-maintenance business. | [07: 16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20(Serah%E2%80%99s%20Break%20Into%20Two).md) |
 | Teidmann’s Transport Maintenance | Named transport-maintenance business. | [07: 16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20(Serah%E2%80%99s%20Break%20Into%20Two).md) |
 | Rube’s | Named establishment; further business/location detail to be confirmed. | [03: 05 Tiron and Bix](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/05%20Tiron%20and%20Bix.md); [03: 08 Rik and Lora](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/08%20Rik%20and%20Lora.md) |
+
+| Opal and Ember Club | Club with gambling tables, staff, and security in Deception; Tiron enters by posing as a member of Vorobiev’s party. | [03: 08 Rik and Lora](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/08%20Rik%20and%20Lora.md); [03: 14 Tiron and Alayn](https://github.com/djaysnider/03-The-Halferne-Deception/blob/main/14%20Tiron%20and%20Alayn.md) |
+| La Chasse Club | Phrame club in the simulated De Wallen area of the Plezierkoepel construct; Serah meets Skurv here with Jafet and Camilla. Distinct from the physical club in the opening bust. | [02: 25 De Wallen](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/25%20De%20Wallen.md) |
+| Unnamed club near Wardour Mews | Physical club where Parrino confronts Skurv in Incubus’s opening bust. No proper name found in the current manuscript; Wardour Mews is the subsequent chase route toward D’Arblay, not an explicitly stated street address for the club. | [02: 06 The Bust](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/06%20The%20Bust.md) |
 
 ## Unresolved groups and boundary cases
 
