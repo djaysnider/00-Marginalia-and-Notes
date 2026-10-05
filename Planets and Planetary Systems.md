@@ -39,7 +39,7 @@ Initial source audit: 2026-10-04. Reviewed current text and outlines in all twel
 |---|---|---|---|
 | Sol | Earth / Luna / Europa / Titan | Human home system; Sol Directorate is a political entity, not a synonym for this one system. | [The-Malyon-Gambit — 05 (Intro Serah)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/05%20(Intro%20Serah).md) |
 | Iota Excipio / Excipio | Notosia; unnamed outer gas giants and settled moons | Explicit Notosia parent star. Gate destroyed in Perfidy. | [The-Halferne-Perfidy — 04 Maguro](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Maguro.md) |
-| Canticum / Iota Caticum / Cantium | Auria; Iota Caticum IX; Banpei station | Likely spelling variants of one system; requires author choice. | [The-Halferne-Incubus — 18 Erik](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/18%20Erik.md); [The-Halferne-Expedition — 40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md) |
+| Iota Canticum / Canticum | Auria; Iota Canticum IX; Banpei station | | [The-Halferne-Incubus — 18 Erik](https://github.com/djaysnider/02-The-Halferne-Incubus/blob/main/18%20Erik.md); [The-Halferne-Expedition — 40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md) |
 | Lambda Tonitrus | LT-9A447; ninth planet; location 329 | Survey / mining claim; Thurin-based pseudo-Bayer naming. | [The-Halferne-Expedition — 04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md) |
 | Sigma Mirium | Sigma Mirium VII and its moons | Imprecation mission system; recalled in Bodhi. | [The-Halferne-Imprecation — 05 Crash](https://github.com/djaysnider/05-The-Halferne-Imprecation/blob/main/05%20Crash.md) |
 | Luyten | Aquitaine / Aquatine station | System named explicitly; Aquitaine planet/moons connection remains inference. | [The-Halferne-Expedition — 03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md) |
@@ -55,13 +55,8 @@ Initial source audit: 2026-10-04. Reviewed current text and outlines in all twel
 
 ## Continuity issues requiring decisions
 
-1. **Canticum / Caticum / Cantium.** Incubus assigns Banpei and Auria to Canticum. Malyon Gambit uses Iota Caticum and then Canticum in the same travel scene. Auria Descension alternates Canticum and Caticum. Expedition places the same Banpei disaster in Cantium. Probable spelling drift, not three established systems.
-2. **Mycion / Malcyon.** Incubus, “18 Erik,” gives Halferne’s birthplace as Mycion; “39 Necropolaunt” calls it Malcyon. Expedition repeats Mycion. Determine canonical spelling before creating a second world.
-3. **LT-9A447 / Lambda Tonitrus 329.** Expedition identifies the dwarf-planet site as LT-9A447. Prevo Contingency, “06 (Possession),” has Ursza recognize Lambda Tonitrus 329 from Jaysn’s memories. Check whether this is the same location with an obsolete designation or a deliberate second body.
 5. **Aquitaine / Aquatine; station versus planet.** Expedition, “03 Arrival,” places Aquitaine station in Luyten. “37 Halferne” spells it Aquatine and says “on Luyten.” Bodhi shows the planet Aquitaine from resort moon Manitou. A station named after a planet is coherent, but the planetary-system relationship is not explicitly established. Decide spelling and formal station location.
 6. **Titan: orbital factory versus surface factory.** Perfidy, “03 Excipio Station,” describes an orbital factory around Titan; “08 Cipher” and “37 (Shuttle)” describe the factory on Titan. Could be colloquial shorthand, but record whether the actual installation orbits Titan or stands on its surface.
-7. **Notosia / Nototsia.** Expedition, “40 Jaysn,” contains Nototsia. Probable typo; preserve Notosia as provisional label.
-8. **Keraunos as planet.** The only explicit planet reference found is Clay’s coded cover story in Perfidy, “12 Shimizu.” Do not accidentally turn the project name into an established planet through an encyclopedia entry.
 
 ## Relationships to preserve or clarify
 
