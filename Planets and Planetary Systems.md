@@ -32,7 +32,6 @@ Initial source audit: 2026-10-04. Reviewed current text and outlines in all twel
 | Jahlia | Location / world candidate | Unspecified | Mentioned | Paired with Atanius in invasion justification; classification unconfirmed. | [The-Auria-Descension — 08 Retreat](https://github.com/djaysnider/08-The-Auria-Descension/blob/main/08%20Retreat.md) |
 | Varablanca | Campaign location / world candidate | Unspecified | Mentioned | Bryn Kirch’s prior military campaign. Not explicitly called a planet. | [The-Malyon-Gambit — 04 Intro Bryn](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/04%20Intro%20Bryn.md) |
 |  |  | Nisaba (Chi1 Orionis) | Unmentioned | Gateway hub managed my Midway Station |
-| Iotia 3 | Unresolved numbered location | Unspecified | Mentioned | Osprey exits a gate around Iotia 3 on approach to Midway. Distinguish from Bodhi’s Iotia gate name for Notosia’s destroyed gate. | [The-Korab-Repraisal — 03 Mission Successful](https://github.com/djaysnider/11-The-Korab-Repraisal/blob/main/03%20Mission%20Successful.md) |
 
 ## Stars, systems, and unresolved gate destinations
 
@@ -59,7 +58,6 @@ Initial source audit: 2026-10-04. Reviewed current text and outlines in all twel
 1. **Canticum / Caticum / Cantium.** Incubus assigns Banpei and Auria to Canticum. Malyon Gambit uses Iota Caticum and then Canticum in the same travel scene. Auria Descension alternates Canticum and Caticum. Expedition places the same Banpei disaster in Cantium. Probable spelling drift, not three established systems.
 2. **Mycion / Malcyon.** Incubus, “18 Erik,” gives Halferne’s birthplace as Mycion; “39 Necropolaunt” calls it Malcyon. Expedition repeats Mycion. Determine canonical spelling before creating a second world.
 3. **LT-9A447 / Lambda Tonitrus 329.** Expedition identifies the dwarf-planet site as LT-9A447. Prevo Contingency, “06 (Possession),” has Ursza recognize Lambda Tonitrus 329 from Jaysn’s memories. Check whether this is the same location with an obsolete designation or a deliberate second body.
-4. **Iotia is used in two different contexts.** Bodhi, “22 (Showdown),” calls the destroyed Notosian gate the Iotia gate; Perfidy consistently identifies its system as Iota Excipio. Korab Repraisal, “03 Mission Successful,” mentions exiting a gate around Iotia 3 before docking at Midway. Resolve each separately; a global replacement could damage a legitimate second location.
 5. **Aquitaine / Aquatine; station versus planet.** Expedition, “03 Arrival,” places Aquitaine station in Luyten. “37 Halferne” spells it Aquatine and says “on Luyten.” Bodhi shows the planet Aquitaine from resort moon Manitou. A station named after a planet is coherent, but the planetary-system relationship is not explicitly established. Decide spelling and formal station location.
 6. **Titan: orbital factory versus surface factory.** Perfidy, “03 Excipio Station,” describes an orbital factory around Titan; “08 Cipher” and “37 (Shuttle)” describe the factory on Titan. Could be colloquial shorthand, but record whether the actual installation orbits Titan or stands on its surface.
 7. **Notosia / Nototsia.** Expedition, “40 Jaysn,” contains Nototsia. Probable typo; preserve Notosia as provisional label.
@@ -72,7 +70,7 @@ Initial source audit: 2026-10-04. Reviewed current text and outlines in all twel
 - **Manitou and Poseidus are moons in Bodhi.** Aquitaine appears to be the parent planet / shared planetary neighborhood, but this remains an inference until specified. Luyten membership is likewise unconfirmed.
 - **Sigma Mirium VII is not the landing site.** The transport approaches the seventh planet but lands on an unnamed volcanic moon. The outline’s colony moon needs its own identification.
 - **Kappa Vega is not yet a named planet.** The text names a terraforming colony. “Kappan” refugees/plague and the author footnote establish a story connection, not a planetary proper name.
-- **Gate names do not necessarily identify planets.** Hermia, Mycion, H4525, and Iotia 3 need classification rather than automatic promotion to planet entries.
+- **Gate names do not necessarily identify planets.** Hermia, Mycion, H4525, need classification rather than automatic promotion to planet entries.
 
 ## Facilities and geographic names excluded from the world count
 
