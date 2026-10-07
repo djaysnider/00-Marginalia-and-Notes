@@ -727,7 +727,7 @@ Cybernetically reinforced knife wielder who mistakes Rik for Krisp.
 The footnote in 11 Assemble assigns these opposing traits:
 
 | Character | Weakness / strength pair in author's note |
-|---|---|
+| --- | --- |
 | Bix | Evasion / accountability |
 | Luuk | Hesitation / decisiveness |
 | Daria | Callousness / empathy |

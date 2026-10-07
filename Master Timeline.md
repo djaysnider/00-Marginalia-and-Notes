@@ -12,7 +12,7 @@
 ## Background
 
 | Relative period | Event | Source / status |
-|---|---|---|
+| --- | --- | --- |
 | Roughly a century before the story | Auria's founding as an alternative to virtual dependence is described in an author's footnote. | 08 Rik and Lora; author note, not dated narrative exposition. |
 | Childhood | Rik and Krisp grow up in social services; Krisp regards St. Edmund School as home. | 07 Rik and Krisp; 22 Krisp's End. |
 | Aptitude-exam period | Krisp qualifies for engineering work but stays with Rik. | 07 Rik and Krisp. |
@@ -27,7 +27,7 @@
 ## Main Sequence
 
 | Order | Event | Time anchor | Source |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 1 | Rik prepares the mechanical trap for Clerc's commute. | Says the job took three days to plan and execute; sabotage is attributed to the prior night. | 03 Clerc; 04 Mechanic. |
 | 2 | Crew steals the prototype while Rik and Bix meet Madhavi. | Morning; Clerc normally leaves at 0630. | 03 Clerc. |
 | 3 | Clerc brings the sabotaged transport to B.D.D.; Rik repairs it for free. | Crew returns about an hour later. | 04 Mechanic. |
@@ -77,7 +77,7 @@ This cannot be inserted straightforwardly between 20 Escape and 22 Krisp's End: 
 ## Rendezvous Instructions
 
 | Instruction | Issuer | Source |
-|---|---|---|
+| --- | --- | --- |
 | Original extraction safehouse | Bix's plan | 12 The Ask; details not fully fixed. |
 | Send a message only to Rik's shop terminal if separated | Rik | 20 Escape. |
 | Magruder's after splitting up | Machine, then Bix | 21 Safe House; unresolved sequence. |
