@@ -1,6 +1,6 @@
 # Halferne Series: Character Bible
 
-> Scope: shared reference for the twelve Halferne novels. Current coverage: *The Halferne Deception* (reviewed 2026-10-02), *The Halferne Perfidy* (added 2026-10-05), *The Halferne Expedition* (added 2026-10-11), and *Tales from Russo’s* (added 2026-10-11). Reorganized 2026-10-06 into one alphabetical character register across sources. These are living reference notes; character claims, author notes, interpretations, and unresolved conflicts remain distinct from established canon.
+> Scope: shared reference for the twelve Halferne novels. Current coverage: *The Halferne Deception* (reviewed 2026-10-02), *The Halferne Perfidy* (added 2026-10-05), *The Halferne Expedition* (added 2026-10-11), *Tales from Russo’s* (added 2026-10-11), and *The Malyon Gambit* (added 2026-10-11). Reorganized 2026-10-06 into one alphabetical character register across sources. These are living reference notes; character claims, author notes, interpretations, and unresolved conflicts remain distinct from established canon.
 
 ## Maintenance and sorting
 
@@ -9,7 +9,7 @@
 * Keep aliases with the same character. Cross-book evidence belongs inside the character’s entry; it must not create a second person or overwrite an earlier book’s knowledge limits.
 * Add or revise entries when the manuscript changes or the author explicitly adopts a decision. Preserve unresolved alternatives rather than silently choosing one.
 * Record skills separately from motives, beliefs, and relationships; identify whether future developments are written or merely planned.
-* Source numbers without links in Deception entries refer to manuscript files in [03-The-Halferne-Deception](https://github.com/djaysnider/03-The-Halferne-Deception), not outline chapter numbers. Perfidy sources link to [01-The-Halferne-Perfidy](https://github.com/djaysnider/01-The-Halferne-Perfidy). Expedition sources link to [04-The-Halferne-Expedition](https://github.com/djaysnider/04-The-Halferne-Expedition). Tales sources link to [13-Tales-From-Russos](https://github.com/djaysnider/13-Tales-From-Russos). Numbering may change during revision.
+* Source numbers without links in Deception entries refer to manuscript files in [03-The-Halferne-Deception](https://github.com/djaysnider/03-The-Halferne-Deception), not outline chapter numbers. Perfidy sources link to [01-The-Halferne-Perfidy](https://github.com/djaysnider/01-The-Halferne-Perfidy). Expedition sources link to [04-The-Halferne-Expedition](https://github.com/djaysnider/04-The-Halferne-Expedition). Tales sources link to [13-Tales-From-Russos](https://github.com/djaysnider/13-Tales-From-Russos). Malyon sources link to [07-The-Malyon-Gambit](https://github.com/djaysnider/07-The-Malyon-Gambit). Numbering may change during revision.
 
 ## Acheson (Private)
 
@@ -32,6 +32,14 @@ Infantry survivor aboard Gibson’s damaged lifeboat. Helps watch the raiders th
 **Fate:** Villagers force him into contact with the obelisk; he is disassembled and incorporated into the city wall. An attempted rollback briefly shows a chance to rescue him, but it does not become his final outcome. His death is acknowledged by the surviving party.
 
 **Sources:** [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [07 Briefing](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/07%20Briefing.md); [09 Confined](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/09%20Confined.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [15 Arch](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/15%20Arch.md); [17 Gallery](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/17%20Gallery.md); [23 Ceremony](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/23%20Ceremony.md); [28 Time Rift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/28%20Time%20Rift.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md).
+
+## Andru
+
+**Source context: The Malyon Gambit**
+
+Transport pilot assigned to take Serah from Arco Naima to the palace. Uses a scenic, indirect route so she can record the city. No surname is supplied; the person who arranged the invitation remains unclear to Serah.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md).
 
 ## Annah
 
@@ -97,6 +105,16 @@ Ghaffari's associate in the card scheme; intimidating, apparently armed.
 
 **Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md); [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
 
+**Source context: The Malyon Gambit**
+
+After the earlier shop troubles, smuggles Cort with Tiron and encounters Sal in the undercity. Kills Wart during the attack on them. Accepts the King’s offer to command the Royal Order of the Heart after Haravan’s assassination, despite class resentment, friends’ objections, and his own uncertainty about responsibility.
+
+**Capabilities and choices:** Reads people and pressure situations quickly, questions ritual security procedures, wins Helena’s first infiltration challenge, and chooses to help compromised Ibarra by paying his debt rather than discarding him. Recognizes the incoming false transport by its dead soldiers’ names. Repairs the damaged escaping shuttle under extreme heat and electrical injury; the King pulls him clear and Helena restores controlled flight.
+
+**Continuity:** Opening uses Rickard, later Rikkard. The Wart attack is on sublevel twenty here versus sublevel five in Tiron’s Tales recollection. These are source discrepancies, not separate Rik/Sal encounters established by the register.
+
+**Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md); [06 (Rik and Sal)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/06%20%28Rik%20and%20Sal%29.md); [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [11 (Rik’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/11%20%28Rik%E2%80%99s%20Debate%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20%28Serah%E2%80%99s%20Break%20Into%20Two%29.md); [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
+
 ## Bailey (Dr.)
 
 **Source context: The Halferne Expedition**
@@ -120,6 +138,14 @@ Infantry survivor aboard Gibson’s lifeboat. Joins the survival planning, watch
 Runs Hotel Fontaine and its neutral-ground business. Angered by Hoefer’s death; engages Clay at the later meeting. Employs Jager and Lukas. Preferred given-name form unresolved.
 
 **Sources:** [10 Yishi Party](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/10%20Yishi%20Party.md); [18 Vivaine](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/18%20Vivaine.md); [36 The Long Knives](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/36%20The%20Long%20Knives.md)
+
+## Berrod, Jean (Minister of Defense)
+
+**Source context: The Malyon Gambit**
+
+Defense minister involved in the response to Haravan’s assassination. Argues that palace protection requires experienced leadership and conveys Nordril’s offer of replacement military personnel. His objections to Rik’s appointment and the Order are political positions; they do not independently establish involvement in the coup.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md).
 
 ## Bethir / Beithir
 
@@ -148,6 +174,22 @@ Runs Hotel Fontaine and its neutral-ground business. Angered by Hoefer’s death
 * The identity of any alternative patron is not established in the drafted text.
 
 **Sources:** 03 Clerc; 05 Tiron and Bix; 11 Assemble; 12 The Ask; 16 Rehearsal; 18 Into Vantaris; 20 Escape; 23 Betrayal; 24 Vyn's.
+
+## Burtan (Corporal)
+
+**Source context: The Malyon Gambit**
+
+Corporal in Kirch’s garrison, named by Gelbert among those killed in the Transport 4 explosion. No given name or individual background supplied.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
+
+## Chakil (Haleth Colonel)
+
+**Source context: The Malyon Gambit**
+
+Former commanding officer who gave Kirch the gold braid after the Thurin rescue. Had received it from his own commander in the last war; Kirch subsequently passes it to Egril. Referenced, not present in the scene.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
 
 ## Chandra, Kavya (Dr.)
 
@@ -231,6 +273,22 @@ LT-9 base second in command and senior engineer. Helps present the artifact brie
 
 **Sources:** [07 Briefing](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/07%20Briefing.md); [08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md).
 
+## Danoy, Llyn (Corporal)
+
+**Source context: The Malyon Gambit**
+
+Pilot transporting Kirch’s unit to New Rinsic; competent but noticeably eager. Reports two approaching hostile craft during reconnaissance, followed by an explosion and loss of contact. Her individual body/recovery is not narrated; the later casualty account concerns the attack collectively.
+
+**Sources:** [04 Intro Bryn](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/04%20Intro%20Bryn.md); [07 (Kirch and Peretz)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/07%20%28Kirch%20and%20Peretz%29.md).
+
+## Davedsen (Corporal)
+
+**Source context: The Malyon Gambit**
+
+Corporal in Kirch’s garrison, named by Gelbert among those killed in the Transport 4 explosion. No given name or individual background supplied.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
+
 ## de Boer, Alayn
 
 **Source context: The Halferne Deception**
@@ -253,6 +311,24 @@ LT-9 base second in command and senior engineer. Helps present the artifact brie
 Tiron mentions that he and Alayn deduced Goldwine/Sal was the Aurian king and connected Rik’s later opportunity to the rescue. This is a referenced contribution, not a physical appearance by Alayn in the bar scene.
 
 **Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
+**Source context: The Malyon Gambit**
+
+Angered by Rik’s acceptance of royal office and feels betrayed. Nevertheless helps Tiron treat the drugged Serah, recognizes the VSR’s temporary override of the drug’s effects, and removes a dermal patch that destroys itself. Her lucidity returns immediately; the unusual agent remains unidentified.
+
+**Sources:** [11 (Rik’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/11%20%28Rik%E2%80%99s%20Debate%29.md); [17 (Tiron)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/17%20%28Tiron%29.md).
+
+## Deacon, Vad (alias: Phaedo Uller)
+
+**Source context: The Malyon Gambit**
+
+Introduces himself to Serah aboard the Olorin as Phaedo Uller, knows her journalism, discusses Aurian culture and her VSR, and offers to arrange a palace visit. After her collapse, the manifest and ship recordings contradict her memory of meeting him.
+
+Erik’s investigation identifies the matching man as Vad Deacon, nominally a commander in the Aurian Royal Marine Corps with a long paid service record but no normal assignments. His actual function remains uncertain. Serah later suspects his involvement in her drugging and the palace conspiracy; that suspicion is not independent proof.
+
+**Name issue:** File 17 calls him “Lev Deacon” while file 13 gives “Vad Deacon.” Retain as a draft variant pending confirmation; no connection to Lev Novik.
+
+**Sources:** [05 (Intro Serah)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/05%20%28Intro%20Serah%29.md); [10 (Serah’s Phone Call)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/10%20%28Serah%E2%80%99s%20Phone%20Call%29.md); [13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20%28Serah%E2%80%99s%20Debate%29.md); [17 (Tiron)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/17%20%28Tiron%29.md).
 
 ## Dijek, Krispin (Krisp)
 
@@ -302,6 +378,12 @@ Business/finance partner in B.D.D.; warns Rik about his influence on Krisp and r
 
 **Sources:** 04, 08. “Laura” also appears.
 
+**Source context: The Malyon Gambit**
+
+Referenced as a repair-shop partner whose locker supplies fresh clothing for Serah after her rescue. No separate new Lora is established.
+
+**Sources:** [17 (Tiron)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/17%20%28Tiron%29.md).
+
 ## Dover (Sergeant)
 
 **Source context: Tales from Russo’s**
@@ -310,15 +392,23 @@ Midway harbormaster mentioned by Colonel Nichols during Gibson’s post-rescue i
 
 **Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
-## Emil
+## Downes
 
-**Source context: Tales from Russo’s**
+**Source context: The Malyon Gambit**
 
-Aurian associate who reports to Rik at Russo’s that Nichols has officially recognized the Embassy under Rik’s administration. His posture and implied deference suggest a soldier to Tiron. Accepts the new “Chief” form of address and is tasked with spreading the news and preparing a duty roster. No surname is supplied.
+Officer directing the orbital-station response to the approaching false transport on Malyon. Rik identifies its passenger names as dead soldiers and warns that firing may trigger a debris attack. Downes orders weapons locked; the craft explodes and debris damages the escaping shuttle. His own subsequent fate is not shown.
 
-**Identity caution:** No evidence connects this Emil to Amil/Emil Ghaffari in Deception; keep separate entries.
+**Sources:** [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
-**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+## Egril, Mat (Haleth Private)
+
+**Source context: The Malyon Gambit**
+
+Young communications specialist in Kirch’s unit. Panics during the New Rinsic attack but follows orders and escapes with Kirch and Keldin. Kirch reassures him that the enemy caused the deaths, praises his improvised communications repair, and awards him the inherited Haleth braid.
+
+**Fate:** Killed in the Transport 4 explosion shortly afterward. Kirch insists on his earned Haleth designation in the casualty report and grieves him with the other dead.
+
+**Sources:** [04 Intro Bryn](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/04%20Intro%20Bryn.md); [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md); [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md).
 
 ## Essien, Tiron
 
@@ -357,17 +447,21 @@ Aurian associate who reports to Rik at Russo’s that Nichols has officially rec
 
 **Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md); [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
 
-## Faran
+**Source context: The Malyon Gambit**
 
-**Source context: Tales from Russo’s**
+Smuggling companion and repair-shop partner. Misses the seriousness of the encounter with Sal at first, then helps Rik confront his fear of accepting responsibility. Finds the drugged Serah at the shop; initially assumes she is an addict, but her blood-written reference to Rik makes him help. Treats her cut, calls Alayn, and helps reconstruct the attempted murder.
 
-Infantry-trained resistance associate and Ursza’s current pupil. Recounts an earlier infiltration in which he considered shooting the Warmaster with a needler while posing as a Notosian lance corporal. Says her recent month of instruction taught him more than two years in infantry.
+**Name issue:** File 03 calls him Tiron Eksaar, whereas later prose uses Essien. Retain as an unresolved surname variant, not an added person.
 
-**Relationships and behavior:** Admires Ursza and underestimates how many fighters she can handle. Asks Russo to assess her ability; denies that their evening is a date. Watches the ensuing fight after Russo persuades him to stay seated, then tells Ulmer it was thirteen against one.
+**Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md); [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [11 (Rik’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/11%20%28Rik%E2%80%99s%20Debate%29.md); [17 (Tiron)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/17%20%28Tiron%29.md).
 
-**Naming limit:** These stories use Faran without a surname. They do not establish a numbered operative identity or his later career.
+## Farrir (Sergeant)
 
-**Sources:** [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+**Source context: The Malyon Gambit**
+
+Sergeant in Kirch’s garrison, named by Gelbert among those killed in the Transport 4 explosion. No given name or individual background supplied.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
 
 ## Feng, Sora
 
@@ -379,6 +473,32 @@ Two locals meeting Ursza at the hostel. Ness’s lookup reports no fixed residen
 
 **Sources:** [08 Hostel](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/08%20Hostel.md)
 
+## Fenzo (purported Colonel)
+
+**Source context: The Malyon Gambit**
+
+Visitor who uses a Defense colonel’s uniform as cover while claiming to represent Internal Affairs in a joint investigation under Nordril. Tells Kirch that OrbCom contains a fabricated officer, casts suspicion on Stark and even Peretz, and supplies a covert communications card with strict instructions to bypass normal channels.
+
+**Evidence limit:** His credentials and account are claims made to Kirch. Serah’s later account describes the commander being manipulated into the attack; do not treat Fenzo’s briefing as independently verified truth.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
+
+## Feth
+
+**Source context: The Malyon Gambit**
+
+Assistant in Mect’s mining delegation. Participates in the palace visit containing Helena’s disguised security test and is found laughing with Mect when guards confiscate the gift box. No surname supplied.
+
+**Sources:** [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md).
+
+## Gelbert (Sergeant)
+
+**Source context: The Malyon Gambit**
+
+Garrison technical/supervisory officer involved in linking the repaired transport to tactical. Directs emergency teams after the explosion, initially blames his own failure to inspect the idle craft, and gives Kirch the damage and casualty report.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
+
 ## Ghaffari, Amil / Emil
 
 **Source context: The Halferne Deception**
@@ -386,6 +506,12 @@ Two locals meeting Ursza at the hostel. Ness’s lookup reports no fixed residen
 Tiron's former employer; attempts to bind Clerc through gambling debt; later demands 100,000 credits from Tiron.
 
 **Sources:** 05, 06, 08. Amil/Emil variants occur.
+
+**Source context: The Malyon Gambit**
+
+Referenced as Ibarra’s creditor and source of leverage. Serah tells Ibarra his debts have been paid and Ghaffari no longer controls him. No given name appears in this source, so the prior Amil/Emil variation remains unresolved.
+
+**Sources:** [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
 ## Gibson, Archibald (Arch)
 
@@ -408,18 +534,6 @@ Tiron's former employer; attempts to bind Clerc through gambling debt; later dem
 Researcher concerned about the Directorate taking his quantum storage/processing design.
 
 **Sources:** 17 The Party.
-
-## Goldwine (Sal; identified as the Aurian king)
-
-**Source context: Tales from Russo’s**
-
-Referenced man from sublevel five whom Rik rescued from Wart. Tiron says he and Alayn worked out that “Goldwine,” or “Sal,” was the king and connected Rik’s later opportunity to that encounter. Rik describes his subsequent close relationship with the king, who treated him as a person and sought his advice.
-
-**Fate and influence:** Rik says he watched the king die beneath a collapsed building while attempting to save a stranger during the invasion, despite trying to escape with his family. Rik makes that example of service a reason for helping refugees and resisting the occupation.
-
-**Evidence caution:** The Goldwine/Sal identification is Tiron’s deduction presented to Rik; the death and private relationship are Rik’s account. No full royal name is given in this story.
-
-**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
 
 ## Gunnarsson (Lieutenant)
 
@@ -469,6 +583,16 @@ Jaysn says Halferne cost him friends to expose a looming cosmic threat and quest
 
 **Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md).
 
+## Haravan, Daon (Captain)
+
+**Source context: The Malyon Gambit**
+
+Captain of the Royal Order of the Heart, responsible for palace protection. Formally escorts Serah on her visit. Familiar with Cen and the palace systems but assumes the young intruder at the Ministry building is a largely harmless joy runner.
+
+**Fate:** The intruder stabs him at close range; Ibarra shoots the attacker. Haravan dies in the narrated scene. His death precipitates scrutiny of the Order and Rik’s appointment. Serah’s VSR preserves her earlier encounters with him.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [10 (Serah’s Phone Call)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/10%20%28Serah%E2%80%99s%20Phone%20Call%29.md); [13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20%28Serah%E2%80%99s%20Debate%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
+
 ## Haris / Harris (Private)
 
 **Source context: Tales from Russo’s**
@@ -492,6 +616,14 @@ Claims Ministry of Transportation authority aboard Maguro. Defeated by Clay and 
 **Disambiguation:** Guardian’s lifeboat survivor Private Haris/Harris is a separately presented person, recorded under Haris / Harris (Private). No connection to this marshal is established.
 
 **Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
+## Henri
+
+**Source context: The Malyon Gambit**
+
+Serah’s editor and friend, who encourages her to finish her personal novel before her thirtieth birthday. Erik warns that Henri would object to unsanctioned reporting abroad during her vacation. Referenced only; no surname supplied.
+
+**Sources:** [05 (Intro Serah)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/05%20%28Intro%20Serah%29.md); [13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20%28Serah%E2%80%99s%20Debate%29.md).
 
 ## Hodges, Geoff
 
@@ -517,6 +649,28 @@ Vantaris-associated identity used by Tiron to command Bethir.
 
 **Sources:** 14, 18, 20. No independent direct scene.
 
+## Ibarra, Faran (Major / Lieutenant)
+
+**Source context: Tales from Russo’s**
+
+Infantry-trained resistance associate and Ursza’s current pupil. Recounts an earlier infiltration in which he considered shooting the Warmaster with a needler while posing as a Notosian lance corporal. Says her recent month of instruction taught him more than two years in infantry.
+
+**Relationships and behavior:** Admires Ursza and underestimates how many fighters she can handle. Asks Russo to assess her ability; denies that their evening is a date. Watches the ensuing fight after Russo persuades him to stay seated, then tells Ulmer it was thirteen against one.
+
+**Naming limit:** These stories use Faran without a surname. They do not establish a numbered operative identity or his later career.
+
+**Sources:** [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+
+**Source context: The Malyon Gambit**
+
+Major Faran Ibarra, deputy in the Order, shoots Haravan’s killer and is criticized for closing the incident as a prank gone wrong. Passed over when the King appoints Rik, but supports his new captain and helps administer security. His indebtedness makes him vulnerable to Ghaffari’s leverage; Rik pays the debt. Confronted with Serah’s VSR evidence, admits Maugrim requested the security report and agrees to assist.
+
+**Cross-source identification:** The shared Faran entry associates the later resistance character with the Order deputy by name and context; Tales itself supplies no surname. Do not infer a numbered operative identity.
+
+**Draft issues:** Usually Major, but called Lieutenant in file 19; Ibaraa and Iolder appear there in his place.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20%28Serah%E2%80%99s%20Break%20Into%20Two%29.md); [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
+
 ## Jager
 
 **Source context: The Halferne Perfidy**
@@ -525,6 +679,30 @@ Berger’s guard/employee; draws a weapon during Vivaine’s attack, is injured,
 
 **Sources:** [18 Vivaine](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/18%20Vivaine.md)
 
+## Jamisen (Mr.)
+
+**Source context: The Malyon Gambit**
+
+Repair-shop customer whose graviton regulator Rik asks Tiron about. Referenced only; no given name supplied.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md).
+
+## Jenna — Kirch’s wife (surname unconfirmed)
+
+**Source context: The Malyon Gambit**
+
+Named when Seva asks about Kirch’s wife and children. Kirch says she left two years earlier and he has not heard from them since. No surname or independent account of the separation is provided.
+
+**Sources:** [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md).
+
+## Jeret (Ambassador)
+
+**Source context: The Malyon Gambit**
+
+Earth’s ambassador on Auria, referenced in arrangements for Serah’s royal visit. Haravan says the King may contact Jeret to arrange an audience; the Cwen knows him but has not recently spoken to him. The invitation’s actual origin is not thereby settled.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md).
+
 ## Jonathan — numbered identities
 
 **Source context: The Halferne Perfidy**
@@ -532,6 +710,14 @@ Berger’s guard/employee; draws a weapon during Vivaine’s attack, is injured,
 Ursza identifies Jonathan 4 as Cerberus and another man as Jonathan 2; Clay is pursued by a Jonathan whose number he cannot determine. Clay recalls Jonathan 4 giving the white lotus. Prose says at least four existed and two are known deceased, but does not establish a complete identity/clone/number map. Joathan is a spelling variant.
 
 **Sources:** [20 Lotus](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/20%20Lotus.md); [22 Inner City](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/22%20Inner%20City.md); [23 The Eyes of Baal](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/23%20The%20Eyes%20of%20Baal.md); [27 The Well](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/27%20The%20Well.md)
+
+## Kant (Private)
+
+**Source context: The Malyon Gambit**
+
+Private in Kirch’s garrison, named by Gelbert among those killed in the Transport 4 explosion. No given name or individual background supplied.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
 
 ## Karim
 
@@ -599,6 +785,24 @@ Ursza returns Clay’s ring, which again projects an image of his daughter, desc
 
 **Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
 
+## Keiv
+
+**Source context: The Malyon Gambit**
+
+Small-time muscle accompanying Wart; brother of Zane. Attacks Rik with a chain and vibroknife. Rik disables his arm and knocks him down; Zane subsequently helps the surviving accomplices leave. No surname supplied.
+
+**Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md).
+
+## Keldin
+
+**Source context: The Malyon Gambit**
+
+Member of Kirch’s command team who accompanies the New Rinsic deployment and escapes with Kirch and Egril by shutting down powered equipment and running for cover.
+
+**Rank/attribution issue:** Introduced as “Lt. Keldin” but also described/addressed as chief warrant officer, Chief, and Sergeant. One retreat passage substitutes Peretz into the scene. Preserve the role while flagging these draft inconsistencies.
+
+**Sources:** [04 Intro Bryn](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/04%20Intro%20Bryn.md); [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
+
 ## Kell
 
 **Source context: Tales from Russo’s**
@@ -614,6 +818,20 @@ Small, youngish card dealer/regular whom a larger player accuses of cheating. Ru
 Baker with cybernetic legs, concealed firearm, and access to a kudzu-growing service. Helps Tiron.
 
 **Sources:** 14 Tiron and Alayn.
+
+## Kirch, Bryn (Haleth Captain)
+
+**Source context: The Malyon Gambit**
+
+Aurian garrison commander at Valindor on Malyon; former law enforcer with fifteen years’ military service. Earned Haleth recognition in an earlier rescue/campaign that he regards less grandly than its official reputation. Protective of his troops and deeply affected by the colony attacks and casualties.
+
+**Written trajectory:** Leads the New Rinsic deployment, discovers hostile craft targeting powered equipment, and escapes with Keldin and Egril after OrbCom fails to provide support. Challenges the response, accepts Fenzo’s covert briefing, then loses more men in a transport explosion. Consults Moras for the funeral and Seva Miler about suspicious orders. When Peretz attempts to arrest him, stuns his friend, steals a scout, and escapes by jumping into a lake while the unmanned craft continues toward Port Lunan.
+
+**Relationships:** Peretz is his trusted deputy and long-serving friend. Wife Jenna left two years earlier; his children are unnamed. Nordril taught him that duty can sometimes require disobedience.
+
+**Ending limit:** File 19 attributes the station attack to manipulation of a local garrison commander, but the surviving written sequence does not narrate Kirch’s complete preparation, attack, or final fate.
+
+**Sources:** [04 Intro Bryn](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/04%20Intro%20Bryn.md); [07 (Kirch and Peretz)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/07%20%28Kirch%20and%20Peretz%29.md); [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md); [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md); [15 (AWOL)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/15%20%28AWOL%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
 ## Klein, Markus
 
@@ -645,6 +863,14 @@ Creditor whose collectors pursue Krisp's unpaid debt.
 
 **Sources:** 09 Intro Wart. No direct appearance.
 
+## Lancer (Private)
+
+**Source context: The Malyon Gambit**
+
+Private in Kirch’s garrison, named by Gelbert among those killed in the Transport 4 explosion. No given name or individual background supplied.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
+
 ## Laurent (Dr.)
 
 **Source context: The Halferne Deception**
@@ -652,6 +878,18 @@ Creditor whose collectors pursue Krisp's unpaid debt.
 Headmaster/patriarch at St. Edmund School; Krisp's chosen father figure.
 
 **Sources:** 22 Krisp's End.
+
+## Leandrin, Cenerik (Cen)
+
+**Source context: The Malyon Gambit**
+
+Cybernetically connected palace-security specialist monitoring the complex through neural interfaces and computer banks. Human cyborg, not established as an SI. Relaxed, witty, and proud of his capabilities; jokes with the Cwen and welcomes Serah as a fellow cyborg.
+
+Tracks system anomalies around the security-roster leak and assists Rik during Helena’s infiltration tests. “Palace” is his communications role/callsign in those exchanges.
+
+**Variants:** Ced appears in file 18 in the same monitoring role; Leander appears in file 19. Treat as contextual draft variants pending confirmation.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20%28Serah%E2%80%99s%20Debate%29.md); [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
 ## Leitner, Nina (Syn.)
 
@@ -664,6 +902,22 @@ Reports Ravenhold’s history, Alibron’s involvement, and Halferne’s biograp
 **Evidence caution:** Her research report establishes what Jaysn is told, not an independently resolved explanation for Halferne’s multiple recorded deaths.
 
 **Sources:** [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
+## Lestare (General)
+
+**Source context: The Malyon Gambit**
+
+Commander/instructor at Camp Epford, praised by Kirch as an exceptional tactical mind. Both Kirch and Egril trained there. His exercise pits inexperienced first-years against fewer upperclassmen to teach the difference between instruction and experience. Referenced only.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
+
+## Levaine, Mox (Senator)
+
+**Source context: The Malyon Gambit**
+
+Recently elected Aurian politician described in news coverage as an agitator drawing support from previously disengaged voters. Arrives late at Rik’s reception and provokes visible disapproval. File 10 calls him a minister of parliament; file 14 introduces him as Senator.
+
+**Sources:** [10 (Serah’s Phone Call)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/10%20%28Serah%E2%80%99s%20Phone%20Call%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md).
 
 ## Locke, Sylvester / Lock
 
@@ -707,6 +961,12 @@ Importer, collector, and employer financing the Thoughtbridge theft; extensive c
 
 **Sources:** 03, 11, 12, 14. Given-name variants Cid/Sid need resolution.
 
+**Source context: The Malyon Gambit**
+
+Referenced in shop discussion as having cleared the partners’ debt. Rik says he previously refused to sell his prized transport even when payment of the debt might have saved their lives.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [11 (Rik’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/11%20%28Rik%E2%80%99s%20Debate%29.md).
+
 ## Malus (Emir)
 
 **Source context: Tales from Russo’s**
@@ -725,6 +985,26 @@ Base officer who initially assists with unloading, laboratory arrangements, comm
 
 **Sources:** [04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md); [08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md).
 
+## Maugrim, Gerhart / Gerhardt (Lord Minister)
+
+**Source context: The Malyon Gambit**
+
+King’s chief of staff. Challenges the failed palace response and Ibarra’s explanation of Haravan’s assassination, while navigating rivalries around the Order and Defense Ministry.
+
+**Emerging conspiracy evidence:** Ibarra admits in file 19 that Maugrim requested the compromised security report. Serah and Rik interpret the leak, Haravan’s murder, the intended succession, and the station attack as a coup designed to control the King and neutralize Nordril. Rik explicitly calls their evidence circumstantial; the manuscript stops before a demonstrated arrest or final resolution.
+
+**Name variants:** Gerhart and Gerhardt both appear; “Magrim” also occurs in context.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
+
+## Mect / Mecht (Gerefe)
+
+**Source context: The Malyon Gambit**
+
+Mining-delegation leader and Court officeholder with Green Level clearance. Greets Rik as a fellow laborer, brings assistants Feth and Gern, and carries a diplomatically protected gift box. Enthusiastically participates in Helena’s security-test ruse; Gern is her disguise. The suspicious gift/remote is part of that test, not a separately established assassination.
+
+**Sources:** [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md).
+
 ## Melendez, Camilla
 
 **Source context: Tales from Russo’s**
@@ -741,6 +1021,14 @@ NPNA personality appearing in the newsfeed Rik and Jaysn watch. Associated with 
 
 **Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
 
+## Mena
+
+**Source context: The Malyon Gambit**
+
+Woman working at Vyn’s establishment, known to Rik. Provides a private room where he and Sal can hide; Rik gives her his remaining money to keep their bottle full and warn him if anyone asks about him. No surname supplied.
+
+**Sources:** [06 (Rik and Sal)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/06%20%28Rik%20and%20Sal%29.md).
+
 ## Mercer (Commander)
 
 **Source context: Tales from Russo’s**
@@ -748,6 +1036,14 @@ NPNA personality appearing in the newsfeed Rik and Jaysn watch. Associated with 
 First officer of Gibson’s destroyed Directorate ship. Gravely wounded in the lifeboat; Sergeant Smits cannot adequately treat him with its first-aid kit. Lieutenant Gunnarsson later stabilizes him. Nichols anticipates a personal letter of gratitude from him. No given name is supplied.
 
 **Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
+## Miler, Seva (Captain)
+
+**Source context: The Malyon Gambit**
+
+Female commander at Myara and an old friend of Kirch. Hears his account, questions whether negligence rather than conspiracy explains the failures, and recommends formal appeals rather than bypassing command. Knows Jenna and asks after Kirch’s family.
+
+**Sources:** [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md).
 
 ## Mitchell, Alexander
 
@@ -762,6 +1058,22 @@ Vantaris CEO; host of the party and owner of privileged terminal access.
 Referenced through Rik’s shared memories: Jaysn recalls a wine encounter at Mitchell’s party during the Thoughtbridge heist. This is a retrospective memory, not a new direct appearance.
 
 **Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
+
+## Moelar (Corporal)
+
+**Source context: The Malyon Gambit**
+
+Corporal in Kirch’s garrison, named by Gelbert among those killed in the Transport 4 explosion. No given name or individual background supplied.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
+
+## Moras (Chaplain)
+
+**Source context: The Malyon Gambit**
+
+Helps Kirch prepare the memorial for nineteen dead soldiers. Consults historical speeches with him and carries much of the service while Kirch struggles to justify the losses. No given name supplied.
+
+**Sources:** [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md).
 
 ## Mother Eye
 
@@ -815,7 +1127,7 @@ Directorate officer who reviews Gibson’s rescue and commends him for saving fi
 
 **Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md); [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
 
-## Nordril (General)
+## Nordril, Rhys (General)
 
 **Source context: Tales from Russo’s**
 
@@ -828,6 +1140,14 @@ Directorate officer who reviews Gibson’s rescue and commends him for saving fi
 **Trajectory limit:** Ends with renewed resolve: he may need shelter now, but intends to become the storm. The story does not establish his later military outcome or a given name.
 
 **Sources:** [03 Before the Storm](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/03%20Before%20the%20Storm.md).
+
+**Source context: The Malyon Gambit**
+
+Introduced as Duguth General Rhys Nordril at Rik’s reception. Military authority involved in investigating Haravan’s murder, skeptical of Rik’s rapid appointment, and associated with proposals for military protection of the palace. Formerly taught Kirch at officer training that duty can require disobedience.
+
+**Evidence distinction:** Fenzo claims to act under his authority; that briefing should not independently establish Nordril’s involvement in the manipulation. Rik ultimately proposes giving the leak evidence to Nordril so his investigation can proceed.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md); [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
 ## Novik, Lev (Syn.; later Overseer)
 
@@ -854,6 +1174,14 @@ Directorate officer who reviews Gibson’s rescue and commends him for saving fi
 Cerberus leader; poised woman apparently in her early thirties, olive-skinned, green power suit. Tries to recruit/coerce Clay and recover Keraunos; his capture leads to torture. Accepts Saleh’s coalition under pressure. Ursza kills her at the meeting; her subsequent televised execution is fabricated.
 
 **Sources:** [33 The Hound](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/33%20The%20Hound.md); [34 The End](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/34%20The%20End.md); [35 Rescue](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/35%20Rescue.md); [36 The Long Knives](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/36%20The%20Long%20Knives.md); [38 (Shuttle)](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/38%20(Shuttle).md)
+
+## Onec
+
+**Source context: The Malyon Gambit**
+
+Person in Tiron’s repeatedly told anecdote: insults sink miners and is thrown into a disposal chute by a large man. The incident is Tiron’s story, not a directly narrated encounter; no surname or eventual fate supplied.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md).
 
 ## Overseer — original alien custodian
 
@@ -885,6 +1213,16 @@ Cerberus leader; poised woman apparently in her early thirties, olive-skinned, g
 
 **Sources:** 11 Assemble; 15 Rik and Poppy; 22 Krisp's End; 23 Betrayal.
 
+## Peretz, Joad (Lieutenant / Beorn)
+
+**Source context: The Malyon Gambit**
+
+Kirch’s trusted executive officer and longtime comrade; helped select much of the garrison. Discusses the failed operation and reports, then attempts to carry out Kirch’s arrest despite their friendship. Kirch disables him and escapes. Peretz pursues the stolen scout privately, hoping to resolve matters without alerting the rest of the command.
+
+**Naming/rank caution:** Beorn is an honorific; occasional rank variation in the draft does not establish another Peretz. Fenzo’s insinuations about his loyalty are allegations.
+
+**Sources:** [07 (Kirch and Peretz)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/07%20%28Kirch%20and%20Peretz%29.md); [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md); [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md); [15 (AWOL)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/15%20%28AWOL%29.md).
+
 ## Petrof
 
 **Source context: Tales from Russo’s**
@@ -892,6 +1230,14 @@ Cerberus leader; poised woman apparently in her early thirties, olive-skinned, g
 Former Aurian serviceman who refuses Nordril’s recruiting offer so he can reunite with his wife and young daughter or get them out of occupied Auria. Says he kept his oath to the king until the end. Nordril respects the choice and shakes his hand. No given name or rank is supplied.
 
 **Sources:** [03 Before the Storm](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/03%20Before%20the%20Storm.md).
+
+## Polker (Corporal)
+
+**Source context: The Malyon Gambit**
+
+Corporal in Kirch’s garrison, named by Gelbert among those killed in the Transport 4 explosion. No given name or individual background supplied.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
 
 ## Prevo, Oron (Supreme Chancellor)
 
@@ -919,6 +1265,12 @@ Clay says Prevo drugged, tortured, and conditioned Ursza as the first Hēi Gēzi
 
 **Sources:** [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md).
 
+**Source context: The Malyon Gambit**
+
+Cwen attacks Serah’s coverage of the Notosian revolution, then says Prevo was a power-mad lunatic at university. Her university acquaintance and judgment are her account; Prevo does not appear directly.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md).
+
 ## Prudence
 
 **Source context: The Halferne Perfidy**
@@ -935,6 +1287,36 @@ Aurian royal figure who enters Russo’s at the end of Wine, Women, and Song. Em
 
 **Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
 
+**Source context: The Malyon Gambit**
+
+Cwen/queen of Auria and Salvator’s wife. Challenges Serah’s journalism and media assumptions, recalls Prevo from university, and judges Rik’s motives and willingness to sacrifice himself. “Cwen” functions as a royal title in this manuscript; the earlier heading is retained for continuity.
+
+**Name variants:** Delana and Delanna appear; file 18 also uses Prytani. Jodara Wilkns is introduced as her cousin.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20%28Serah%E2%80%99s%20Break%20Into%20Two%29.md); [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md).
+
+## Prytannus, Salvator (Sal; formerly labeled Goldwine)
+
+**Source context: Tales from Russo’s**
+
+Referenced man from sublevel five whom Rik rescued from Wart. Tiron says he and Alayn worked out that “Goldwine,” or “Sal,” was the king and connected Rik’s later opportunity to that encounter. Rik describes his subsequent close relationship with the king, who treated him as a person and sought his advice.
+
+**Fate and influence:** Rik says he watched the king die beneath a collapsed building while attempting to save a stranger during the invasion, despite trying to escape with his family. Rik makes that example of service a reason for helping refugees and resisting the occupation.
+
+**Evidence caution:** The Goldwine/Sal identification is Tiron’s deduction presented to Rik; the death and private relationship are Rik’s account. No full royal name is given in this story.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
+**Source context: The Malyon Gambit**
+
+Explicitly introduced as King Salvator Prytannus when Rik is brought to the palace; this confirms the Sal/King identification discussed in Tales. Encounters Rik anonymously in the undercity and proves more capable in the fight than Rik expects. Appoints Rik to lead the Order because of his behavior under pressure and values his direct counsel.
+
+On Malyon, helps seal shuttle breaches, assists with engine diagnostics, and pulls Rik from the heating compartment after the emergency repair. Later death remains the separate Tales account, not an event shown in this manuscript.
+
+**Variants:** Salvator, Salvatore, and Salvan occur in context. Goldwine is a status/title used of him, not an established surname.
+
+**Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md); [06 (Rik and Sal)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/06%20%28Rik%20and%20Sal%29.md); [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
+
 ## Raj
 
 **Source context: The Halferne Deception**
@@ -950,6 +1332,26 @@ Repair-shop worker assigned to Simuns' transport.
 Officer Nichols says would welcome Gibson into engineering. Referenced as an alternative to Gibson’s requested harbormaster career; no given name or direct scene is supplied.
 
 **Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
+## Reyerson — Helena’s father (given name unconfirmed)
+
+**Source context: The Malyon Gambit**
+
+Helena’s father, described by palace background research as a retired mechanic living on a private island twenty-seven kilometers off Arcacia’s eastern shore. Addressed in that report as “Gafare Reyerson”; the manuscript does not clearly establish Gafare as a personal given name.
+
+**Sources:** [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md).
+
+## Reyerson, Helena (Hlavdige; disguise: Gern)
+
+**Source context: The Malyon Gambit**
+
+Independent security consultant, formerly a special-operations captain and military-intelligence analyst. Caerleon Academy class of ’48; commanded the 27th Special Operations Wing in ’52, retired from intelligence seven years later, then worked for megacorps before becoming independent. Skilled pilot with combat-tactics, computer-operations, and history specializations. Rarely uses her Hlavdige title.
+
+**Relationships and trajectory:** Challenges Rik and the Order through infiltration tests and a seven-day wager. Gern, presented as Mect’s male assistant, is her disguise rather than another character. Rik identifies the ruse. Their professional rivalry develops warmth. Accompanies Rik and the King to Malyon; steals a shuttle to escape the station attack and pilots the damaged craft through reentry while Rik repairs its engines and Sal helps.
+
+**Ending limit:** File 19 shows the craft recovering just above the trees; later outcomes remain unwritten in the reviewed prose.
+
+**Sources:** [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
 ## Rousseau, Michelle (Syn.)
 
@@ -1108,6 +1510,24 @@ Proposes using full thrust to attract rescue or draw the raiders away, then prot
 
 **Sources:** [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [13 Platform](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/13%20Platform.md); [18 Rest](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/18%20Rest.md); [20 Altar](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/20%20Altar.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [26 Solvig Awakens](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/26%20Solvig%20Awakens.md); [28 Time Rift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/28%20Time%20Rift.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [34 Reclamation Talk](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/34%20Reclamation%20Talk.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [38 Solvig](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/38%20Solvig.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md).
 
+## Sparks, Wendi (persona: Erik)
+
+**Source context: The Malyon Gambit**
+
+Earth-based heirform whose Erik persona works as a researcher and public/virtual receptionist at Serah’s news agency. Maintains multiple personas/professions and extensive information contacts. After Wendi’s physical death, Erik returns as a cognate personality; colleagues treat their relationship as continuous.
+
+Helps Serah investigate the apparent Phaedo Uller, finds the Vad Deacon identity and anomalous military record, and warns her about unauthorized reporting and possible covert-service involvement. Wendi and Erik belong in one entry, not two unrelated people.
+
+**Sources:** [10 (Serah’s Phone Call)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/10%20%28Serah%E2%80%99s%20Phone%20Call%29.md); [13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20%28Serah%E2%80%99s%20Debate%29.md).
+
+## Stark (Colonel)
+
+**Source context: The Malyon Gambit**
+
+OrbCom commander discussed by Kirch and Fenzo. Kirch describes him as rigid and confrontational but resists believing him disloyal. Fenzo says Stark requested the suspect communications officer and is excluded from the covert investigation. These assertions are part of Fenzo’s briefing, not independently established guilt.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md); [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md).
+
 ## Sundberg, Vyn
 
 **Source context: The Halferne Deception**
@@ -1115,6 +1535,30 @@ Proposes using full thrust to attract rescue or draw the raiders away, then prot
 Bartender, fence, information broker, and proprietor at Vyndrwyn's; assists on Halferne's written instructions.
 
 **Sources:** 17, 24.
+
+**Source context: The Malyon Gambit**
+
+Owner of the establishment where Rik and Sal take refuge. An old acquaintance who left Rik’s neighborhood; reluctantly accepts Cort in barter, takes payment for discretion, and directs Rik to Mena’s room. Described as middle-aged and portly.
+
+**Sources:** [06 (Rik and Sal)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/06%20%28Rik%20and%20Sal%29.md).
+
+## Tahir, Emil (Lieutenant; callsign: Sparrow)
+
+**Source context: Tales from Russo’s**
+
+Aurian associate who reports to Rik at Russo’s that Nichols has officially recognized the Embassy under Rik’s administration. His posture and implied deference suggest a soldier to Tiron. Accepts the new “Chief” form of address and is tasked with spreading the news and preparing a duty roster. No surname is supplied.
+
+**Identity caution:** No evidence connects this Emil to Amil/Emil Ghaffari in Deception; keep separate entries.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
+**Source context: The Malyon Gambit**
+
+Lieutenant Emil Tahir of the Order, responsible for reception security and involved in the infiltration tests. Uses the callsign “Sparrow,” explained by keen vision and attention to detail.
+
+**Cross-source identification:** Emil’s later work with Rik and duty rosters in Tales fits this Order officer; the fuller name is supplied here. This remains distinct from Amil/Emil Ghaffari and from Sheng’s unrelated Sparrow designation.
+
+**Sources:** [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md).
 
 ## Talbot, Sem
 
@@ -1244,6 +1688,28 @@ Referenced as the aggressor from whom Rik rescued Goldwine/Sal, whom Tiron and A
 
 **Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
 
+**Source context: The Malyon Gambit**
+
+Leads the group confronting Rik and Sal, with Keiv, Zane, and the unnamed scarred shockgaunt attacker. Tries a final knife attack after his accomplices are disabled; Rik kills him by repeatedly crushing his skull. This is a directly narrated death, distinct from the later Tales reference.
+
+**Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md).
+
+## Wein (Private)
+
+**Source context: The Malyon Gambit**
+
+Private in Kirch’s garrison, named by Gelbert among those killed in the Transport 4 explosion. No given name or individual background supplied.
+
+**Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
+
+## Wilkns, Jodara
+
+**Source context: The Malyon Gambit**
+
+Cwen’s cousin and CEO of a major import conglomerate in the western metroplex, introduced at Rik’s reception. Keep distinct from the lifeboat Private Wilks in Tales from Russo’s.
+
+**Sources:** [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md).
+
 ## Wilks (Private)
 
 **Source context: Tales from Russo’s**
@@ -1288,6 +1754,16 @@ Infantry survivor aboard Gibson’s damaged lifeboat. Helps watch raider movemen
 
 **Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md); [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
 
+**Source context: The Malyon Gambit**
+
+Terran Neward and Provident journalist approaching thirty, completing a long-worked-on personal novel with Henri’s encouragement. Visits Auria on vacation to record a docu-experience using her VSR. Meets the apparent Phaedo Uller, collapses, then finds the ship’s records contradict her memory. Receives a palace invitation, tours with Haravan and the Cwen, and records crucial security-data flashes without initially recognizing them.
+
+**Written trajectory:** Investigates through Erik/Wendi, encounters class and cultural tensions at Rik’s reception, and is attacked and dosed with a dissociative agent at her hotel. Uses VSR playback to regain enough mental clarity to escape and reach Rik’s shop; Tiron and Alayn rescue her. Later confronts Ibarra with the recorded leak and helps Rik reconstruct the apparent coup.
+
+**Evidence limit:** Her theory connects manipulated garrison command, Haravan’s assassination, debt leverage, and Maugrim’s requested report. The file 19 conversation still calls the case circumstantial. Wiles and Sereh also occur as spelling variants.
+
+**Sources:** [05 (Intro Serah)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/05%20%28Intro%20Serah%29.md); [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [10 (Serah’s Phone Call)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/10%20%28Serah%E2%80%99s%20Phone%20Call%29.md); [13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20%28Serah%E2%80%99s%20Debate%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20%28Serah%E2%80%99s%20Break%20Into%20Two%29.md); [17 (Tiron)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/17%20%28Tiron%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
+
 ## Yogananda Rimpoche / Yogadana
 
 **Source context: The Halferne Perfidy**
@@ -1296,9 +1772,25 @@ Harba City monk/teacher; works with mathematics and Sanskrit shastras, assists U
 
 **Sources:** [08 Hostel](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/08%20Hostel.md); [22 Inner City](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/22%20Inner%20City.md); [29 Gu’Senlin](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/29%20Gu%E2%80%99Senlin.md); [43 Last Laugh](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/43%20Last%20Laugh.md); [44 (Shastra)](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/44%20(Shastra).md)
 
+## Zane
+
+**Source context: The Malyon Gambit**
+
+Keiv’s brother and a more dangerous member of Wart’s group. Attacks Sal with a pipe; Sal incapacitates him and uses the pipe against the shockgaunt attacker. Zane helps the other surviving accomplices retreat and threatens eventual retaliation. No surname supplied.
+
+**Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md).
+
 ## Unnamed characters — reference labels
 
 These labels identify scenes/roles rather than canonical names; alphabetized separately because no surname is established.
+
+### Arco Korab’s Freawine Lord
+
+**Source context: The Malyon Gambit**
+
+Unnamed official Rik hopes to meet at the palace dinner to hear news of his old home; he admits he does not know the man’s exact name. Referenced only.
+
+**Sources:** [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md).
 
 ### Cari Clarc’s biological father
 
@@ -1340,6 +1832,14 @@ Rumored organizer who knows smuggler-gate locations and Notosian patrol movement
 
 **Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
+### Haravan’s killer — young palace intruder
+
+**Source context: The Malyon Gambit**
+
+Unnamed young man in his late teens who compromises palace systems, reaches the Ministry building, and stabs Haravan after the captain assumes he is a joy runner. Ibarra shoots him. His motive and handler are not directly narrated; the “school prank” explanation is contested.
+
+**Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md).
+
 ### Harba café proprietor
 
 **Source context: The Halferne Perfidy**
@@ -1364,6 +1864,14 @@ Tall, dark-skinned man explains the statue’s history and exchange tradition. F
 
 **Sources:** [27 The Well](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/27%20The%20Well.md)
 
+### Kirch’s children
+
+**Source context: The Malyon Gambit**
+
+Children referenced in Seva’s question about Jenna. Kirch says he has not heard from his family since the separation. Number, names, ages, and individual circumstances not supplied.
+
+**Sources:** [12 (Bryn’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/12%20%28Bryn%E2%80%99s%20Debate%29.md).
+
 ### Locke’s guard and the masked intruder on La Terreur
 
 **Source context: The Halferne Perfidy**
@@ -1371,6 +1879,14 @@ Tall, dark-skinned man explains the statue’s history and exchange tradition. F
 Separate participants in Clay’s yacht encounter; do not give the intruder an identity beyond what subsequent revelations support.
 
 **Sources:** [07 La Terreur](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/07%20La%20Terreur.md)
+
+### Malyon scout pursuit — unnamed hangar sergeant and guards
+
+**Source context: The Malyon Gambit**
+
+Garrison personnel whom Kirch exploits through a readiness-drill pretext to take a scout and escape. Their ranks/honorifics do not supply personal names.
+
+**Sources:** [15 (AWOL)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/15%20%28AWOL%29.md).
 
 ### Midway dockworkers thanking Arch
 
@@ -1411,6 +1927,30 @@ Thirteen men involved in the fight with Ursza, initially led by the large player
 Performer with a portable keyboard at Rik and Tiron’s meeting. Sings a Terran jazz farewell song; the author’s footnote identifies it as “I’ll Be Seeing You.” No personal name is supplied.
 
 **Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
+### Scar — Wart’s shockgaunt accomplice
+
+**Source context: The Malyon Gambit**
+
+Unnamed thin, short man with a scar down the left side of his face and neck. Rik’s descriptive label “Scar” is not established as a personal name. Attacks Rik with shockgaunts; Sal knocks him down with Zane’s pipe. Leaves with the surviving accomplices.
+
+**Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md).
+
+### Serah’s hotel attackers
+
+**Source context: The Malyon Gambit**
+
+Unnamed man who assaults and drugs Serah in her room, and another who intercepts her in the lobby while claiming to be “Doctor Wyles,” her husband. That claimed identity is a cover, not an established spouse. Serah suspects a connection to Uller/Deacon but has not positively identified either attacker.
+
+**Sources:** [16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20%28Serah%E2%80%99s%20Break%20Into%20Two%29.md); [17 (Tiron)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/17%20%28Tiron%29.md).
+
+### Serah’s shipboard doctor
+
+**Source context: The Malyon Gambit**
+
+Unnamed female doctor after Serah’s collapse aboard the Olorin. Presents records contradicting Serah’s remembered meeting with Uller. Neither her complicity nor her independence from the manipulation is established.
+
+**Sources:** [05 (Intro Serah)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/05%20%28Intro%20Serah%29.md).
 
 ### Starliner’s personal bartender
 
@@ -1514,3 +2054,18 @@ Reviewed 2026-10-11 against all six prose stories (files 02–07) in [13-Tales-F
 * Guardian introduces nine in the first lifeboat but lists Gibson, five infantry personnel, Smits, and three wounded officers (ten people). The other boat has six, while the combined rescue is repeatedly fifteen. Preserve the cast and flag the passenger arithmetic for manuscript review.
 * Before the Storm discusses five remaining smuggler gates one month after the siege; Purpose and Promise lists three routes six weeks after it. Different dates permit a changed situation; do not force the counts to match without reviewing the evacuation chronology.
 * Russo’s appearance shifts between “slender” in After the Labyrinth and “big man” in Fists and Feet. These need not imply separate bartenders, but are worth checking for consistent physical description.
+
+
+### The Malyon Gambit coverage and continuity notes
+
+Reviewed 2026-10-11 against all current prose files 03–19 in [07-The-Malyon-Gambit](https://github.com/djaysnider/07-The-Malyon-Gambit), at tree `d85535351504acf4fbbbcfd6420d6e6c81192c77`. The outline was consulted to distinguish plans from written events. The prose currently ends with the shuttle's recovery near Malyon's treetops and Serah/Ibarra/Rik discussing the security leak; no later planned resolution is recorded as completed canon.
+
+* Full-name evidence resolves the former Sal/Goldwine heading as Salvator Prytannus and Nordril as Rhys Nordril. Faran Ibarra and Emil Tahir are associated with the later single-name Tales entries by context; those stories' own naming limits remain preserved.
+* Phaedo Uller is identified by Erik as Vad Deacon. The “Lev Deacon” reference in file 17 is retained as an unresolved variant, not equated with Lev Novik.
+* Tiron Eksaar/Essien, Rickard/Rikkard, Wiles/Wyles/Sereh, Gerhart/Gerhardt, Mect/Mecht, Cen/Ced/Leander, Delana/Delanna/Prytani, and Salvator/Salvatore/Salvan require consistency review. Ibarra becomes Ibaraa/Iolder in file 19. These do not generate duplicate characters.
+* Keldin's rank/address shifts among lieutenant, chief warrant officer, Chief, and Sergeant; one New Rinsic retreat passage inserts Peretz into his position. Ibarra is usually Major but becomes Lieutenant in file 19. Record the differences without editing the source manuscript.
+* Rik's encounter with Sal is on sublevel twenty in Malyon, versus sublevel five in the Tales recollection. The locations need reconciliation.
+* Gern is Helena's infiltration disguise. Erik is Wendi Sparks's persona. Doctor Wyles is an attacker's claimed cover. Sparrow here is Emil Tahir's callsign and does not establish a connection to Sheng's designation. Cwen, Goldwine, Gerefe, Haleth, Duguth, Beorn, and Guma are treated as titles/status terms where the prose uses them that way.
+* Fenzo's account and claims of authority remain attributed. Serah and Rik's reconstruction implicates Maugrim, but the manuscript explicitly calls the evidence circumstantial and does not yet show an arrest or final resolution.
+* The Transport 4 scene first lists nine dead and seven unaccounted for; file 12 later commemorates nineteen dead. Keep the named casualties while checking the final accounting. Danoy's transport is hit and contact lost; her individual recovery is not shown.
+* Historical people, epigraph/song credits, fictional characters inside Serah's own novel, drug/product names (including Cort), and unnamed group delegates are not mistaken for named members of the main cast. The Emir of Persia reference is left unattributed to an existing named Emir without further identity evidence.
