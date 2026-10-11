@@ -1,6 +1,6 @@
 # Halferne Series: Character Bible
 
-> Scope: shared reference for the twelve Halferne novels. Current coverage: *The Halferne Deception* (reviewed 2026-10-02) and *The Halferne Perfidy* (added 2026-10-05). Reorganized 2026-10-06 into one alphabetical character register across sources. These are living reference notes; character claims, author notes, interpretations, and unresolved conflicts remain distinct from established canon.
+> Scope: shared reference for the twelve Halferne novels. Current coverage: *The Halferne Deception* (reviewed 2026-10-02), *The Halferne Perfidy* (added 2026-10-05), and *The Halferne Expedition* (added 2026-10-11). Reorganized 2026-10-06 into one alphabetical character register across sources. These are living reference notes; character claims, author notes, interpretations, and unresolved conflicts remain distinct from established canon.
 
 ## Maintenance and sorting
 
@@ -9,7 +9,21 @@
 * Keep aliases with the same character. Cross-book evidence belongs inside the character’s entry; it must not create a second person or overwrite an earlier book’s knowledge limits.
 * Add or revise entries when the manuscript changes or the author explicitly adopts a decision. Preserve unresolved alternatives rather than silently choosing one.
 * Record skills separately from motives, beliefs, and relationships; identify whether future developments are written or merely planned.
-* Source numbers without links in Deception entries refer to manuscript files in [03-The-Halferne-Deception](https://github.com/djaysnider/03-The-Halferne-Deception), not outline chapter numbers. Perfidy sources link to [01-The-Halferne-Perfidy](https://github.com/djaysnider/01-The-Halferne-Perfidy). Numbering may change during revision.
+* Source numbers without links in Deception entries refer to manuscript files in [03-The-Halferne-Deception](https://github.com/djaysnider/03-The-Halferne-Deception), not outline chapter numbers. Perfidy sources link to [01-The-Halferne-Perfidy](https://github.com/djaysnider/01-The-Halferne-Perfidy). Expedition sources link to [04-The-Halferne-Expedition](https://github.com/djaysnider/04-The-Halferne-Expedition). Numbering may change during revision.
+
+## Amin, Umar
+
+**Source context: The Halferne Expedition**
+
+**Role and appearance:** Expedition geologist; portly, middle-aged, usually in coveralls. Socially forthcoming, absorbed in his work, and acquainted with Clarc from the charter voyage.
+
+**Capabilities and behavior:** At ease in caves despite his anxiety elsewhere. Designs the five-point tunnel-collapse plan, reads the ice/atmosphere hazards, and contributes isotope and geological hypotheses about the disk. His expertise is distinct from his tendency to panic during encounters with unfamiliar life and technology.
+
+**Relationships and trajectory:** Reveals to Jaysn that Clarc’s father was an SI, while refusing to tell her private history for her. When wisps surround him, Wolff comes to protect him; a transport cube forms around the two men and Clarc follows on its roof. The three subsequently reach the humanoid village.
+
+**Fate:** Villagers force him into contact with the obelisk; he is disassembled and incorporated into the city wall. An attempted rollback briefly shows a chance to rescue him, but it does not become his final outcome. His death is acknowledged by the surviving party.
+
+**Sources:** [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [07 Briefing](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/07%20Briefing.md); [09 Confined](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/09%20Confined.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [15 Arch](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/15%20Arch.md); [17 Gallery](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/17%20Gallery.md); [23 Ceremony](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/23%20Ceremony.md); [28 Time Rift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/28%20Time%20Rift.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md).
 
 ## Annah
 
@@ -63,6 +77,14 @@ Ghaffari's associate in the card scheme; intimidating, apparently armed.
 
 **Sources:** 03 Clerc; 04 Mechanic; 07 Rik and Krisp; 08 Rik and Lora; 09 Intro Wart; 10 Intro Alayn; 15 Rik and Poppy; 16 Rehearsal; 20 Escape; 24 Vyn's.
 
+## Bailey (Dr.)
+
+**Source context: The Halferne Expedition**
+
+Referenced xenoanthropologist whom Jaysn proposes as his replacement when threatening to abandon the mission. No given name, direct appearance, or acceptance of the assignment is established.
+
+**Sources:** [03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md).
+
 ## Berger, Dre
 
 **Source context: The Halferne Perfidy**
@@ -99,6 +121,44 @@ Runs Hotel Fontaine and its neutral-ground business. Angered by Hoefer’s death
 
 **Sources:** 03 Clerc; 05 Tiron and Bix; 11 Assemble; 12 The Ask; 16 Rehearsal; 18 Into Vantaris; 20 Escape; 23 Betrayal; 24 Vyn's.
 
+## Chandra, Kavya (Dr.)
+
+**Source context: The Halferne Expedition**
+
+Nina Leitner’s research names this person, associated with Procyon, among Alibron’s principals. No direct appearance or additional biography is supplied; the affiliation is reported research rather than a witnessed encounter.
+
+**Sources:** [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
+## Clarc, Cari
+
+**Source context: The Halferne Expedition**
+
+**Role and appearance:** Expedition xenozoologist; short-cropped black hair, visible head/neck cybernetics, tracheal and neural enhancements, and a high-quality left-arm prosthesis. Guarded, blunt, and often hostile to synthetic intelligences. Describes herself as agnostic and worries about the implications of a species capable of shepherding or destroying other intelligent life.
+
+**Capabilities:** Interprets alien behavior, sensory biology, and possible argon-world biochemistry. Climbs onto the departing cube to stay with Amin and Wolff, participates in the light-pattern exchange, and later decodes the villagers’ chest-beating/directional gestures. Physically capable and willing to fight, but initially argues against assuming the humanoids are violent.
+
+**Background and relationships:** Her biological father died in a containment breach on Beta Tangra when she was four. Her mother hired an SI to impersonate him through remote holos, telling Cari he was working off-world. Cari discovered the deception at sixteen while applying for university and finding her deceased father’s educational trust. The SI claimed genuine affection and said he returned his fees to that trust; these motives are his account as relayed by Cari. The betrayal explains her distrust of SIs, rather than proving all SIs behave similarly.
+
+**Written trajectory:** Challenges Novik’s decisions about Tamana and Wolff, then hears his defense of their agency. Holds Wolff’s sidearm during Novik’s transfer into the Overseer role, authorized to stop him if he becomes dangerous. Returns alive with Jaysn and Solvig and resumes contact with Syn. Thomas Clarc, introducing him as her father.
+
+**Memory and future:** Her detailed recollections begin fading like a dream; notes contain sequence errors Jaysn corrects. Declines immediately building a career on the dead colleagues’ experience, considers action against Ravenhold/Halferne, and leaves later collaboration open.
+
+**Body caution:** The simulated city form temporarily replaces her prosthetic arm with a biological one while retaining other enhancements. Do not treat that adaptation as a permanent physical change after returning.
+
+**Sources:** [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [13 Platform](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/13%20Platform.md); [15 Arch](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/15%20Arch.md); [17 Gallery](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/17%20Gallery.md); [21 Raptor](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/21%20Raptor.md); [23 Ceremony](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/23%20Ceremony.md); [31 Moses](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/31%20Moses.md); [32 Clarc's Past](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/32%20Clarc's%20Past.md); [34 Reclamation Talk](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/34%20Reclamation%20Talk.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md).
+
+## Clarc, Thomas (Syn.)
+
+**Source context: The Halferne Expedition**
+
+Synthetic intelligence whom Cari introduces as her father during a holo conversation aboard the returning starliner. Presented as a graying, late-middle-aged man in a plain worker’s tunic, with mischievous eyes; offers condolences to Jaysn.
+
+**Identity and relationship:** The SI father figure connected to Cari’s childhood deception and later estrangement. Cari’s renewed contact signals reconciliation, but does not rewrite the history she told Novik. Keep him distinct from her deceased biological father; the prose does not establish that the biological father also bore the given name Thomas.
+
+**Evidence caution:** His claims that he cared for the family and returned the impersonation fees to Cari’s educational trust are relayed in her account. His physical appearance here is a holo presentation.
+
+**Sources:** [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [32 Clarc's Past](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/32%20Clarc's%20Past.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md).
+
 ## Clay, Sean (alias: Alexandre Girard)
 
 **Source context: The Halferne Perfidy**
@@ -122,6 +182,16 @@ Runs Hotel Fontaine and its neutral-ground business. Angered by Hoefer’s death
 Tesnica weapons designer and prototype custodian; victim of Rik's theft and Tiron's con. Later helps redirect Tesnica toward Tiron.
 
 **Sources:** 03–06; 08. Marten/Martin/Marty/Clerk variants occur.
+
+## Conner (Captain)
+
+**Source context: The Halferne Expedition**
+
+LT-9 base second in command and senior engineer. Helps present the artifact briefing, supplies composition and inconsistent dimensional measurements, and describes the engineering observations. Executes lockdown commands at the end of the threat scene. No given name or final personal fate is established.
+
+**Identity caution:** Matthews handles much of the command-console exchange in the same scene. They are separately named officers; do not merge them merely because Conner delivers its final acknowledgment.
+
+**Sources:** [07 Briefing](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/07%20Briefing.md); [08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md).
 
 ## de Boer, Alayn
 
@@ -263,6 +333,18 @@ Unseen written contact who asks Vyn to assist especially Rik, Tiron, Alayn, and 
 
 **Sources:** [23 The Eyes of Baal](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/23%20The%20Eyes%20of%20Baal.md); [24 The Museum](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/24%20The%20Museum.md); [28 The Heist](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/28%20The%20Heist.md); [39 Denouement](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/39%20Denouement.md); [40 Hello, Mother](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/40%20Hello%2C%20Mother.md); [41 Pilatus](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/41%20Pilatus.md).
 
+**Source context: The Halferne Expedition**
+
+**Role and admissions:** Presents himself aboard the corporate transport as Ravenhold Sovereign’s financier of the expedition. Admits the approaching raiders and mutiny were a false flag/drill meant to put the team in mortal fear and trigger the disk. Says he sent observers of life rather than specialists who could reverse-engineer the artifact. The returning scientists accuse him of manipulating them and causing their colleagues’ losses.
+
+**Knowledge limits:** His answers and the mission design indicate advance knowledge, but he does not explain its origin or the full extent of his predictions. Promises debriefing, press arrangements, and VIP travel; says the disk will remain under study by people who understand its implications.
+
+**Contradictory reported biography:** Nina Leitner’s research identifies a Mycion-born man, born 109 years earlier according to the record, with sixteen advanced degrees; reports death at Banpei research station in the Cantium system twenty-three years earlier, later advisory service to Prevo, and another death in London Metroplex three years earlier. Older images show an aging/balding man; the recent corporate images match the younger fair-haired man Jaysn met. Leitner insists the credentials check out. Record these as contradictory information discovered by Jaysn, not resolved births, deaths, or proof of multiple separate Halfernes.
+
+**Cross-book note:** The reported Prevo advisory role connects to Perfidy’s existing evidence. Expedition supplies no complete explanation of the change in appearance.
+
+**Sources:** [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
 ## Harris (Marshal)
 
 **Source context: The Halferne Perfidy**
@@ -327,6 +409,26 @@ Referenced deceased daughter, named in Clay’s conversation with Ness. Holo in 
 
 **Sources:** [12 Debate](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Debate.md); [14 Prudence](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/14%20Prudence.md); [27 The Well](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/27%20The%20Well.md)
 
+## Katsaros, Jaysn
+
+**Source context: The Halferne Expedition**
+
+**Role and background:** Principal viewpoint character; 26-year-old xenoanthropologist from Thurin, respected early in his career and experienced in expeditions and lecture travel. Carries his portable library. Tamana is a mentor to whom he credits much of his career; Novik is a close friend and frequent collaborator.
+
+**Appearance and disposition:** Beard, favored worn leather jacket and soft-soled shoes. Charming, irreverent, impatient with bureaucracy and prolonged indecision. Seeks food, wine, conversation, novelty, and shared appreciation of experience. Threatens to abandon the mission but stays when he learns Tamana leads it and SDEC offers double pay.
+
+**Capabilities and limits:** Generates competing cultural hypotheses, notices inconsistencies in the team selection and briefing restrictions, and acts on calculated hunches. Tests the lift himself rather than risking the group. His curiosity and impulsiveness repeatedly conflict with Tamana’s command. He declines command after her removal, trusting Novik’s judgment over his own compromised position.
+
+**Relationships and choices:** Protective of Solvig, though their later dinner arrangement is not confirmed as romantic. Tries to dissuade Tamana from destroying the obelisk; ultimately recognizes the force of her case for the humanoids’ agency. Proposes reaching the active light tower during the flood. Recognizes Novik through the private jambalaya ingredient, sassafras, and receives his final embrace.
+
+**Outcome:** Returns alive with Clarc and Solvig. Retains the experience in detail while their memories fade; lies about suffering the same loss of recall. Grieves the colleagues they lost and recognizes that he alone retains their faces and moments clearly.
+
+**Halferne connection:** Ravenhold specifically required him by name. The Overseer uses his mind as a communication primer. After Halferne admits staging the danger, Jaysn researches the financier and finds conflicting death records and appearances. Receipt of his payment redirects his attention toward beachfront property in Marbella, leaving his investigation unfinished.
+
+**Naming caution:** Jasyn, Jason, and Katsaraos occur in passages referring to Jaysn Katsaros; no separate person is indicated.
+
+**Sources:** [03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md); [04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md); [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [14 Lift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/14%20Lift.md); [18 Rest](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/18%20Rest.md); [20 Altar](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/20%20Altar.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [24 Reunion](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/24%20Reunion.md); [27 Boom](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/27%20Boom.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [31 Moses](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/31%20Moses.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [38 Solvig](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/38%20Solvig.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
 ## Khanna, Vijay
 
 **Source context: The Halferne Deception**
@@ -373,6 +475,18 @@ Headmaster/patriarch at St. Edmund School; Krisp's chosen father figure.
 
 **Sources:** 22 Krisp's End.
 
+## Leitner, Nina (Syn.)
+
+**Source context: The Halferne Expedition**
+
+Independent SI researcher whom Jaysn reaches through private relays and a personal favor because he wants someone outside Ravenhold, SDEC, and the starliner’s payroll. Holo appears as a plain-looking woman.
+
+Reports Ravenhold’s history, Alibron’s involvement, and Halferne’s biography and images. Maintains that the contradictory records and corporate credentials check out. When Jaysn abandons that line of inquiry after receiving his payment, she turns to Mediterranean property listings.
+
+**Evidence caution:** Her research report establishes what Jaysn is told, not an independently resolved explanation for Halferne’s multiple recorded deaths.
+
+**Sources:** [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
 ## Locke, Sylvester / Lock
 
 **Source context: The Halferne Perfidy**
@@ -406,6 +520,16 @@ Berger’s employee, mentioned in instructions to clean up and exclude yorohito 
 Importer, collector, and employer financing the Thoughtbridge theft; extensive connections described by Vijay.
 
 **Sources:** 03, 11, 12, 14. Given-name variants Cid/Sid need resolution.
+
+## Matthews (Lieutenant)
+
+**Source context: The Halferne Expedition**
+
+Base officer who initially assists with unloading, laboratory arrangements, communications, and command-console monitoring. Reports the incoming vessel’s propulsion, obtains its visual identification, and sends the emergency message.
+
+**Apparent betrayal:** Clarc identifies him among personnel allegedly bought by a rival corporation during the attack in the tunnel. Halferne later says there was no genuine mutiny and that selected personnel were instructed to stage a drill. Preserve both stages of the revelation rather than recording Matthews as a confirmed corporate traitor. No given name or final personal fate is supplied.
+
+**Sources:** [04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md); [08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md).
 
 ## Mitchell, Alexander
 
@@ -451,6 +575,24 @@ Pilgrim whom Klein says he spared; called harmless but overdependent on others. 
 
 **Sources:** [04 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Excipio%20Station.md); [12 Debate](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Debate.md); [32 Captured](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/32%20Captured.md); [36 The Long Knives](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/36%20The%20Long%20Knives.md).
 
+## Novik, Lev (Syn.; later Overseer)
+
+**Source context: The Halferne Expedition**
+
+**Role and capabilities:** Synthetic scientist, Tamana’s frequent collaborator, and Jaysn’s friend. Expertise spans roughly two dozen disciplines, including environmental modeling; helped stabilize Kappa Vega after its terraforming setbacks. Works through the base/ship systems and Class 1 and Class 5 drones, later receiving a scholar-like simulated human form with sensor capabilities and exceptional strength.
+
+**Values and behavior:** Enjoys cooking for others despite being unable to eat in his original form. Says grace sincerely, accepts uncertainty about a higher power, and regards thought and intelligibility as more important than whether a mind is biological or synthetic. His own viewpoint confirms gratitude and grief rather than merely performed social gestures.
+
+**Expedition trajectory:** Opens the locked rooms through a diagnostic window, escapes attempted isolation by transferring into a cavern drone, and identifies the artifact’s isotope patterns. Becomes expedition leader after withdrawing obedience to Tamana over her concealed orders. Rejects Clarc’s assumption that allowing colleagues to choose sacrifice means he feels no remorse.
+
+**Transformation and outcome:** Volunteers to assume the Overseer’s functions so the humanoids can live as free minds within a sustainable environment. Defines his role as stewardship and constraints against annihilation, rather than scripting their destiny. Gives Clarc permission to terminate him if he becomes dangerous. Reveals sassafras as his jambalaya’s secret ingredient to establish continuity, embraces Jaysn, and sends the three remaining humans home.
+
+**Fate caution:** Remains within the simulation as the new Overseer; he does not return with the humans. Their later references to losing Novik express separation and grief, not a narrated conventional death. His promises describe his intended stewardship; the book does not give a long-term audit of its success.
+
+**Designation caution:** The original Overseer calls him “Nirmata” and distinguishes his order of mind from the humans. Keep this contextual designation separate from a new personal identity.
+
+**Sources:** [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [09 Confined](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/09%20Confined.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [11 The Disk](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/11%20The%20Disk.md); [13 Platform](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/13%20Platform.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [26 Solvig Awakens](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/26%20Solvig%20Awakens.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [32 Clarc's Past](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/32%20Clarc's%20Past.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
 ## Omari, Fatima (the Hound)
 
 **Source context: The Halferne Perfidy**
@@ -458,6 +600,22 @@ Pilgrim whom Klein says he spared; called harmless but overdependent on others. 
 Cerberus leader; poised woman apparently in her early thirties, olive-skinned, green power suit. Tries to recruit/coerce Clay and recover Keraunos; his capture leads to torture. Accepts Saleh’s coalition under pressure. Ursza kills her at the meeting; her subsequent televised execution is fabricated.
 
 **Sources:** [33 The Hound](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/33%20The%20Hound.md); [34 The End](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/34%20The%20End.md); [35 Rescue](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/35%20Rescue.md); [36 The Long Knives](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/36%20The%20Long%20Knives.md); [38 (Shuttle)](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/38%20(Shuttle).md)
+
+## Overseer — original alien custodian
+
+**Source context: The Halferne Expedition**
+
+**Identity and function:** Biological custodian of the simulated world/solar system held in the disk. Distinct from its creators and from Lev Novik, who later assumes his functions. Solvig’s interface account describes him as the last of his kind, waiting hundreds of millions of years for people who never arrived.
+
+**Presentations:** Each visitor initially perceives an image suited to their frame of reference: Solvig’s dazzling light, Clarc’s predator, Wolff’s uniformed authority, Novik’s mathematical abstraction, Tamana’s mother tree, and Jaysn’s shifting theatrical mask. The later chamber reveals a squid-like body with a mushroom-like upper mass and tentacles. Those descriptions are human perceptions, not a settled species name.
+
+**Capabilities and constraints:** Communicates by interpreting minds and metaphors, with Jaysn as his easiest human primer. Maintains simulated natural law, briefly pauses/rolls back events, and cannot freely undo everything once witnessed. Influences the evolved humanoids into rebuilding the city through the obelisk. After Tamana frees them from that control, initiates destructive nanoparticle rain to preserve the larger design.
+
+**Motives and outcome:** Frames destruction as mercy and protection of the simulation; the party disputes that judgment. The wider account links the archive to refuge from the Reclamation. Hands over functions through the light-bee interface when Novik volunteers. His body goes limp and the interface breaks; the text does not explicitly confirm his biological death.
+
+**Evidence caution:** Separate his own justifications and Solvig’s translated information from directly observed events. Omnipotence, universal knowledge, and godhood are not established.
+
+**Sources:** [20 Altar](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/20%20Altar.md); [26 Solvig Awakens](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/26%20Solvig%20Awakens.md); [28 Time Rift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/28%20Time%20Rift.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [34 Reclamation Talk](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/34%20Reclamation%20Talk.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md).
 
 ## Patel, Poppy
 
@@ -487,6 +645,12 @@ Cerberus leader; poised woman apparently in her early thirties, olive-skinned, g
 
 **Sources:** [05 Maguro](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/05%20Maguro.md); [37 Intro Prevo](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/37%20Intro%20Prevo.md); [38 (Shuttle)](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/38%20(Shuttle).md).
 
+**Source context: The Halferne Expedition**
+
+Referenced in Nina Leitner’s report as the Notosian chancellor whom Halferne served as an advisor. Archival vids reportedly show them together in Nakano City. This is an epilogue research reference, not a new direct appearance or an independently resolved chronology.
+
+**Sources:** [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
 ## Prudence
 
 **Source context: The Halferne Perfidy**
@@ -502,6 +666,16 @@ Young yorohito at Klein’s pilgrimage camp; mousy-brown bob, green eyes. Draws 
 Repair-shop worker assigned to Simuns' transport.
 
 **Sources:** 04 Mechanic.
+
+## Rousseau, Michelle (Syn.)
+
+**Source context: The Halferne Expedition**
+
+SDEC liaison SI during Jaysn’s transit. Appears on screen as a young woman whose presentation Jaysn believes was tailored to his preferences. Handles his complaints, explains briefing restrictions, and offers authorized double pay to keep him on the expedition. Confirms Tamana as expedition leader.
+
+**Evidence caution:** Jaysn suspects a lie when she calls Onyx a new classification. Later revelations identify Ravenhold’s control of the mission, but do not independently establish all of Michelle’s private knowledge or intentions.
+
+**Sources:** [03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md).
 
 ## Rube / Ruben
 
@@ -527,6 +701,14 @@ Operator at the neutral venue Rube's; accepts payment to support Tiron's cover s
 
 **Sources:** [05 Maguro](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/05%20Maguro.md); [16 Klein](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/16%20Klein.md); [18 Vivaine](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/18%20Vivaine.md); [35 Rescue](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/35%20Rescue.md); [37 Intro Prevo](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/37%20Intro%20Prevo.md); [38 (Shuttle)](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/38%20(Shuttle).md); [41 Pilatus](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/41%20Pilatus.md).
 
+## Sasaki, Aiko
+
+**Source context: The Halferne Expedition**
+
+Mentioned by Cari Clarc as the person who warned her that Jaysn would pout unless she at least pretended to like him. Jaysn recognizes the name. No direct appearance, profession, or precise relationship to either scientist is established. The passage occurs twice within the current Galley file.
+
+**Sources:** [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md).
+
 ## Sato, Ren
 
 **Source context: The Halferne Perfidy**
@@ -542,6 +724,14 @@ Harba City dex/scrub with a leucotome and a communications terminal. Reveals Cla
 Madhavi's assistant; prepared intelligence for the Clerc job and resents its rejection.
 
 **Sources:** 03 Clerc.
+
+## Sidrov, Sergey (Dr.)
+
+**Source context: The Halferne Expedition**
+
+Nina Leitner’s research names this person, associated with Manitou, among Alibron’s principals. No direct appearance or further biography is supplied. Preserve the manuscript’s Sidrov spelling unless revised by the author.
+
+**Sources:** [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
 
 ## Simuns (Mr.)
 
@@ -580,6 +770,22 @@ Repair customer.
 
 **Sources:** 11 Assemble; 12 The Ask; 13 Krisp and Daria; 16 Rehearsal; 18 Into Vantaris; 23 Betrayal.
 
+## Solvig, Anita
+
+**Source context: The Halferne Expedition**
+
+**Role and appearance:** Expedition archaeologist; young, slender, blond, with a gold cuff bracelet inscribed with Egyptian glyphs and a projected display. Jaysn knows her published Gamma Morava work. Intensely interested in rare knowledge and selective about social/intellectual engagement; Amin’s account of her behavior is his assessment.
+
+**Capabilities and risks:** Contributes interpretations of archetypes, material culture, and unfamiliar interfaces. Connects with the alien control system through light tendrils, suffering sensory overload; Novik and Jaysn remove her and carry her to safety. Later contact provides the party’s account of the simulation, its absent intended inhabitants, the Reclamation, and the original Overseer’s role.
+
+**Written trajectory:** Helps bring the team to the cloud-layer custodian chamber and mediates Novik’s proposed succession. The interface break overwhelms her again, but Novik says she will recover. Returns alive with Jaysn and Clarc.
+
+**Memory outcome and relationships:** Initially has detailed technical understanding she hopes to record, but subsequently loses both specifics and larger explanations. Prefers returning to familiar archaeological work and a colleague’s Bayon docuexperience. Invites Jaysn to show her a Thurin bistro after the press conference; the text does not establish a romance.
+
+**Evidence caution:** Her interface explanations are information received/translated through contact. Temporary simulated changes to her appearance are not a revised permanent description.
+
+**Sources:** [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [13 Platform](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/13%20Platform.md); [18 Rest](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/18%20Rest.md); [20 Altar](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/20%20Altar.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [26 Solvig Awakens](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/26%20Solvig%20Awakens.md); [28 Time Rift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/28%20Time%20Rift.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [34 Reclamation Talk](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/34%20Reclamation%20Talk.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [38 Solvig](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/38%20Solvig.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md).
+
 ## Sundberg, Vyn
 
 **Source context: The Halferne Deception**
@@ -595,6 +801,22 @@ Bartender, fence, information broker, and proprietor at Vyndrwyn's; assists on H
 Shimizu Synthesis scientist/businessman; claims to have invented and be sole producer of Shard. Controls Ursza through supply and brokers Keraunos. Clay shoots him and withholds immediate rescue; subsequent narrative treats him as dead. Prevo/Saleh later explain additional uses of the dependency.
 
 **Sources:** [13 Shimizu](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/13%20Shimizu.md); [20 Lotus](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/20%20Lotus.md); [37 Intro Prevo](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/37%20Intro%20Prevo.md)
+
+## Tamana, Disha (Dr.)
+
+**Source context: The Halferne Expedition**
+
+**Role and background:** Senior exobiologist/biologist and initial expedition leader, with delegated SDEC authority over discovery/team decisions. Silver-haired and near the end of her career. Jaysn’s mentor and a longstanding collaborator of Novik; three-time campus bridge champion. Worked on the Gaia Suit research on Mycion decades earlier.
+
+**Command and motives:** Demands discipline, controls access to the briefing, and repeatedly clashes with Jaysn’s improvisation. Accepts Ravenhold’s budget and secrecy requirements in hope of making a final significant discovery. Admits that the financiers specified the disciplines and required Jaysn by name. Says she did not know the team would be transported into the simulation. Novik withdraws obedience and assumes leadership after that revelation.
+
+**Capabilities and choices:** Directs the tunnel operation, retains one explosive charge, and later studies the forest’s mycorrhizal connections. Concludes that the humanoids’ sacrificial rebuilding is coerced and deliberately destroys the obelisk to give them the chance to choose for themselves, despite Jaysn’s pleas and the apparent guardians.
+
+**Fate and motive caution:** Dies in the explosion. The Overseer temporarily offers a rollback; she knowingly refuses to undo her choice. Her defense of the humanoids’ agency coexists with the pride Jaysn challenges, rather than reducing her motive to a single label. Her act precipitates the Overseer’s destructive response and the need for Novik’s intervention.
+
+**Body caution:** Appears roughly forty years younger in the simulated city, then nearer her original age in the valley. These are environment/self-image adaptations, not separate identities.
+
+**Sources:** [03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md); [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md); [09 Confined](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/09%20Confined.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [13 Platform](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/13%20Platform.md); [14 Lift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/14%20Lift.md); [20 Altar](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/20%20Altar.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [24 Reunion](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/24%20Reunion.md); [27 Boom](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/27%20Boom.md); [28 Time Rift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/28%20Time%20Rift.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md).
 
 ## Thom
 
@@ -662,6 +884,24 @@ Large collector who destroys shop equipment while his partner assaults Rik.
 
 **Sources:** 09, 10.
 
+## Wolff (Major)
+
+**Source context: The Halferne Expedition**
+
+**Role and background:** LT-9 base commander and Engineering Corps liaison. Experienced expedition officer; previously crossed paths with Jaysn and Tamana on Wurren 6 and Procyon. No given name is supplied. Calls himself a gambler and scoundrel off duty; makes ration-pack chili and grows ginger from a root his former CO gave him twelve years earlier.
+
+**Capabilities and values:** Base security, weapons recognition, field engineering, tactical decisions, and practical rescue. Initially protective of classified information and chain of command. Identifies the modified cutter’s Earth pulse cannons and orders a lockdown. Joins the trapped scientists and refuses to kill his own men when retreat can neutralize them.
+
+**Written trajectory:** Is caught in a transport cube while trying to protect Amin, works with Clarc among the humanoids, and tries unsuccessfully to rescue Amin from sacrifice. Later treats the simulated villagers as civilians whose need for help is sufficient justification to act.
+
+**Final stand:** Chooses to stay behind during the nanoparticle flood, making log bridges with Novik’s plasma torch. Villagers learn to help him and an older humanoid sacrifices himself to save him. Wolff sends a rescued female toward the caves and resumes rescue work as destruction closes in.
+
+**Fate caution:** His final viewpoint leaves him still working; subsequent passages count him among the fallen. Do not invent a shown final injury or death scene.
+
+**Threat revelation:** Halferne later calls the raid/mutiny a staged operation. That does not establish that Wolff himself knew the threat was fabricated.
+
+**Sources:** [04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md); [07 Briefing](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/07%20Briefing.md); [08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [15 Arch](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/15%20Arch.md); [17 Gallery](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/17%20Gallery.md); [23 Ceremony](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/23%20Ceremony.md); [25 J&T](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/25%20J%26T.md); [27 Boom](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/27%20Boom.md); [31 Moses](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/31%20Moses.md); [33 Wolff's End](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/33%20Wolff's%20End.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
 ## Yogananda Rimpoche / Yogadana
 
 **Source context: The Halferne Perfidy**
@@ -673,6 +913,22 @@ Harba City monk/teacher; works with mathematics and Sanskrit shastras, assists U
 ## Unnamed characters — reference labels
 
 These labels identify scenes/roles rather than canonical names; alphabetized separately because no surname is established.
+
+### Cari Clarc’s biological father
+
+**Source context: The Halferne Expedition**
+
+Died in a containment breach on the Beta Tangra mining outpost when Cari was four. Left an educational trust whose discovery helped expose the SI impersonation. No personal name is established independently of Syn. Thomas Clarc.
+
+**Sources:** [32 Clarc's Past](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/32%20Clarc's%20Past.md).
+
+### Cari Clarc’s mother
+
+**Source context: The Halferne Expedition**
+
+Hired an SI to impersonate her dead husband and maintained the off-world-work explanation throughout Cari’s childhood. Cari describes her mother reacting as though Cari had betrayed her when the truth emerged; that is Cari’s account of the confrontation, not a clinical diagnosis. No name or later fate is supplied.
+
+**Sources:** [32 Clarc's Past](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/32%20Clarc's%20Past.md).
 
 ### Cerberus torturer and armored guards
 
@@ -714,6 +970,14 @@ Separate participants in Clay’s yacht encounter; do not give the intruder an i
 
 **Sources:** [07 La Terreur](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/07%20La%20Terreur.md)
 
+### Starliner’s personal bartender
+
+**Source context: The Halferne Expedition**
+
+Attends the three returning scientists in their VIP accommodation, knows Jaysn’s obscure drink requests, and serves his Stinger. No name or biological/synthetic identity is established.
+
+**Sources:** [38 Solvig](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/38%20Solvig.md).
+
 ### Unnamed collector
 
 **Source context: The Halferne Deception**
@@ -721,6 +985,14 @@ Separate participants in Clay’s yacht encounter; do not give the intruder an i
 Cybernetically reinforced knife wielder who mistakes Rik for Krisp.
 
 **Sources:** 09 Intro Wart.
+
+### Valley humanoid guides and rescuers
+
+**Source context: The Halferne Expedition**
+
+Individual villagers communicate the route toward the caves and offer carrying/climbing help during the flood. During Wolff’s rescue work, a juvenile helps others cross; an older humanoid saves Wolff by throwing him to safety and dies in the nanoparticles. The rescued female reluctantly leaves for the caves. These are distinct unnamed participants, not a single recurring person.
+
+**Sources:** [31 Moses](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/31%20Moses.md); [33 Wolff's End](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/33%20Wolff's%20End.md).
 
 ## Author's Design Notes — Not In-World Facts
 
@@ -738,6 +1010,22 @@ The footnote in 11 Assemble assigns these opposing traits:
 
 These are useful design intentions, not proof that every behavior or arc is already established. The proposed theme about protection, independence, and responsibility remains discussion material, not an adopted canon decision.
 
+### Expedition character design notes
+
+Author footnotes map the seven principals to nontraditional versions of the seven deadly sins. These are design notes, not in-world identities or substitutes for the characters’ written choices.
+
+| Character | Author’s design association |
+| --- | --- |
+| Jaysn Katsaros | Gluttony: appetite for experience and novelty |
+| Wolff | Greed: keeping knowledge and control to himself |
+| Disha Tamana | Pride: desire for a final defining discovery |
+| Umar Amin | Sloth: preference for emotional or physical safety |
+| Cari Clarc | Wrath |
+| Lev Novik | Envy: desire to grow beyond his limitations |
+| Anita Solvig | Lust: appetite for knowledge |
+
+**Sources:** Author footnotes in [03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md); [04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md).
+
 ## Source Review Notes
 
 Reviewed 2026-10-05 against chapters 04–44 in [01-The-Halferne-Perfidy](https://github.com/djaysnider/01-The-Halferne-Perfidy). These entries describe the characters at the time of this novel, not their eventual twelve-book identities or roles. Deaths depicted in a fabricated broadcast are not additional deaths. Author footnotes, cover stories, and character allegations are distinguished from independently narrated events. Names below include off-world characters and referenced relatives, as well as the cast physically on Notosia.
@@ -747,3 +1035,18 @@ Reviewed 2026-10-05 against chapters 04–44 in [01-The-Halferne-Perfidy](https:
 * Keep Sora/Dejan’s courier role and Rimpoche’s footnote spelling separate from prose-confirmed facts.
 * Establish Marga and Lars’s relationships only through later prose or an explicit author decision.
 * Preserve actual deaths separately from Mother Eye’s staged executions and public accusations.
+
+### Expedition coverage and continuity notes
+
+Reviewed 2026-10-11 against manuscript files 03–40 in [04-The-Halferne-Expedition](https://github.com/djaysnider/04-The-Halferne-Expedition), at repository tree `527102843a832e33be5f876610a211aa57f54947`. Outline/synopsis material is not promoted over the prose. Includes the seven principal expedition members, the original Overseer, named supporting and referenced fictional people, recurring characters, and selected unnamed figures needed to preserve relationships or final actions. Historical thinkers, religious figures, and literary allusions are not added as fictional cast. The Reclamation is described collectively; no individual member is named here.
+
+* Keep the original alien Overseer distinct from Novik’s later assumption of the role. Novik’s absence from the returning party is not equivalent to a narrated conventional death.
+* Preserve the initially apparent raid/mutiny and Halferne’s later false-flag explanation in the same character histories; Matthews’s supposed betrayal is not settled independent fact.
+* Keep Cari’s biological father separate from Syn. Thomas Clarc. Do not infer the biological father’s given name from the SI’s later introduction.
+* Jaysn retains detailed memories; Solvig and Clarc lose detail after returning. Their epilogue testimony cannot automatically replace earlier narrated events.
+* Halferne’s multiple recorded deaths, changing appearance, and reported dates remain an unresolved research finding.
+* The current 06 Galley file contains a repeated introduction/dinner sequence. This is one cast, not duplicate people or two established separate dinners.
+* Name variants Jasyn, Jason, and Katsaraos refer to Jaysn in context; Clark and Carc likewise occur for Clarc, and Wolf/Wollf for Wolff. Retain preferred forms in the register without editing the manuscript.
+* In 26 Solvig Awakens, Novik’s scan identifies distant human forms as “Clarc and Novik.” The surrounding sequence points to Clarc and Wolff; retain this as a prose-reference issue rather than inventing a second Novik.
+
+**Sources:** [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [26 Solvig Awakens](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/26%20Solvig%20Awakens.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [32 Clarc's Past](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/32%20Clarc's%20Past.md); [33 Wolff's End](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/33%20Wolff's%20End.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [38 Solvig](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/38%20Solvig.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
