@@ -1,6 +1,6 @@
 # Halferne Series: Character Bible
 
-> Scope: shared reference for the twelve Halferne novels. Current coverage: *The Halferne Deception* (reviewed 2026-10-02), *The Halferne Perfidy* (added 2026-10-05), and *The Halferne Expedition* (added 2026-10-11). Reorganized 2026-10-06 into one alphabetical character register across sources. These are living reference notes; character claims, author notes, interpretations, and unresolved conflicts remain distinct from established canon.
+> Scope: shared reference for the twelve Halferne novels. Current coverage: *The Halferne Deception* (reviewed 2026-10-02), *The Halferne Perfidy* (added 2026-10-05), *The Halferne Expedition* (added 2026-10-11), and *Tales from Russo’s* (added 2026-10-11). Reorganized 2026-10-06 into one alphabetical character register across sources. These are living reference notes; character claims, author notes, interpretations, and unresolved conflicts remain distinct from established canon.
 
 ## Maintenance and sorting
 
@@ -9,7 +9,15 @@
 * Keep aliases with the same character. Cross-book evidence belongs inside the character’s entry; it must not create a second person or overwrite an earlier book’s knowledge limits.
 * Add or revise entries when the manuscript changes or the author explicitly adopts a decision. Preserve unresolved alternatives rather than silently choosing one.
 * Record skills separately from motives, beliefs, and relationships; identify whether future developments are written or merely planned.
-* Source numbers without links in Deception entries refer to manuscript files in [03-The-Halferne-Deception](https://github.com/djaysnider/03-The-Halferne-Deception), not outline chapter numbers. Perfidy sources link to [01-The-Halferne-Perfidy](https://github.com/djaysnider/01-The-Halferne-Perfidy). Expedition sources link to [04-The-Halferne-Expedition](https://github.com/djaysnider/04-The-Halferne-Expedition). Numbering may change during revision.
+* Source numbers without links in Deception entries refer to manuscript files in [03-The-Halferne-Deception](https://github.com/djaysnider/03-The-Halferne-Deception), not outline chapter numbers. Perfidy sources link to [01-The-Halferne-Perfidy](https://github.com/djaysnider/01-The-Halferne-Perfidy). Expedition sources link to [04-The-Halferne-Expedition](https://github.com/djaysnider/04-The-Halferne-Expedition). Tales sources link to [13-Tales-From-Russos](https://github.com/djaysnider/13-Tales-From-Russos). Numbering may change during revision.
+
+## Acheson (Private)
+
+**Source context: Tales from Russo’s**
+
+Infantry survivor aboard Gibson’s damaged lifeboat. Helps watch the raiders through the portholes. Rescued with the combined group of fifteen; no given name is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
 ## Amin, Umar
 
@@ -77,6 +85,18 @@ Ghaffari's associate in the card scheme; intimidating, apparently armed.
 
 **Sources:** 03 Clerc; 04 Mechanic; 07 Rik and Krisp; 08 Rik and Lora; 09 Intro Wart; 10 Intro Alayn; 15 Rik and Poppy; 16 Rehearsal; 20 Escape; 24 Vyn's.
 
+**Source context: Tales from Russo’s**
+
+**Six weeks after the siege:** Takes responsibility for the surviving Aurian Embassy on Midway, with Lutz arranging the lease and Nichols formally recognizing his administration. Emil accepts Tiron’s suggested “Chief” address. Rik proposes food, shelter, medical support, and resettlement for refugees, then whatever further action allies and resources permit.
+
+**Motivation and relationships:** Tiron presses him about the missing two years, the royal connection, and apparent abandonment of their old self-interest. Rik describes knowing the king personally and witnessing him die while trying to save a stranger. Treats that example as a duty to help where he can, rather than solely a political allegiance.
+
+**Later wartime state:** In Wine, Women, and Song, watches Notosia burn without satisfaction, withdraws from the gestalt, and mourns the grounding influence Tiron once supplied. Jaysn helps him connect and reassures him about the value of their combined abilities. Cwen arrives at the end. During Fists and Feet, insists Ursza use fists and feet instead of concealed weapons and avoid attracting trouble on the Embassy’s steps.
+
+**Memory caution:** Access to Serah’s memories and Ursza’s skills is explicit in these later stories. It must not be backdated into his earlier Deception profile.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md); [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+
 ## Bailey (Dr.)
 
 **Source context: The Halferne Expedition**
@@ -84,6 +104,14 @@ Ghaffari's associate in the card scheme; intimidating, apparently armed.
 Referenced xenoanthropologist whom Jaysn proposes as his replacement when threatening to abandon the mission. No given name, direct appearance, or acceptance of the assignment is established.
 
 **Sources:** [03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md).
+
+## Bendan (Corporal)
+
+**Source context: Tales from Russo’s**
+
+Infantry survivor aboard Gibson’s lifeboat. Joins the survival planning, watches the raiders’ movement, and provides the countdown for the maneuver. Rescued with the group; no given name is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
 ## Berger, Dre
 
@@ -175,6 +203,16 @@ Synthetic intelligence whom Cari introduces as her father during a holo conversa
 
 **Sources:** [04 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Excipio%20Station.md); [12 Debate](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Debate.md); [14 Prudence](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/14%20Prudence.md); [34 The End](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/34%20The%20End.md); [39 Denouement](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/39%20Denouement.md); [41 Pilatus](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/41%20Pilatus.md).
 
+**Source context: Tales from Russo’s**
+
+**Later visit — four months before liberation:** Retired from Division 5 the previous year; travels to Midway armed and prepared for a confrontation with Serah. Questions her responsibility as the second Hēi Gēzi and his own decision to spare Ursza and surrender Keraunos ten years earlier. He does not arrive with a fully settled intention to kill her, though he is prepared to use the weapon and die.
+
+**Resolution and relationships:** Serah directs him toward the living Ursza, disproving his belief she had been killed. Ursza returns his ring after keeping it from the night following their final Excipio encounter. She says his choice made Serah’s eventual rescue of her possible and accepts responsibility for the subsequent struggle with Serah. Clay regains a sense that he has things left to do and urges them to allow themselves that same possibility.
+
+**Evidence caution:** His attribution of multiple wars/atrocities to Serah and his fear they are his own fault are the confrontation’s accusations and guilt, not an independently verified causal history. Serah and Ursza’s later mental discussion shows they deliberately spare him a fuller account of Halferne’s manipulation while aiming to remain honest.
+
+**Sources:** [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md).
+
 ## Clerc, Marten
 
 **Source context: The Halferne Deception**
@@ -209,6 +247,12 @@ LT-9 base second in command and senior engineer. Helps present the artifact brie
 **Name conflict:** “Landsman” and “Fielder” appear before the de Boer reveal. Landsman is explicitly connected to the concealed identity in 24 Vyn's; whether Fielder is another intentional alias or a draft remnant is unresolved.
 
 **Sources:** 10 Intro Alayn; 11 Assemble; 12 The Ask; 14 Tiron and Alayn; 20 Escape; 23 Betrayal; 24 Vyn's.
+
+**Source context: Tales from Russo’s**
+
+Tiron mentions that he and Alayn deduced Goldwine/Sal was the Aurian king and connected Rik’s later opportunity to the rescue. This is a referenced contribution, not a physical appearance by Alayn in the bar scene.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
 
 ## Dijek, Krispin (Krisp)
 
@@ -258,6 +302,24 @@ Business/finance partner in B.D.D.; warns Rik about his influence on Krisp and r
 
 **Sources:** 04, 08. “Laura” also appears.
 
+## Dover (Sergeant)
+
+**Source context: Tales from Russo’s**
+
+Midway harbormaster mentioned by Colonel Nichols during Gibson’s post-rescue interview. Wants adequate backup; Nichols considers him receptive to an apprentice. Gibson proposes resigning his commission to serve under the enlisted harbormaster. No given name or direct scene is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
+## Emil
+
+**Source context: Tales from Russo’s**
+
+Aurian associate who reports to Rik at Russo’s that Nichols has officially recognized the Embassy under Rik’s administration. His posture and implied deference suggest a soldier to Tiron. Accepts the new “Chief” form of address and is tasked with spreading the news and preparing a duty roster. No surname is supplied.
+
+**Identity caution:** No evidence connects this Emil to Amil/Emil Ghaffari in Deception; keep separate entries.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
 ## Essien, Tiron
 
 **Source context: The Halferne Deception**
@@ -285,6 +347,28 @@ Business/finance partner in B.D.D.; warns Rik about his influence on Krisp and r
 
 **Sources:** 05 Tiron and Bix; 06 Tiron and Clerc; 08 Rik and Lora; 14 Tiron and Alayn; 16 Rehearsal; 17 The Party; 18 Into Vantaris; 20 Escape.
 
+**Source context: Tales from Russo’s**
+
+**Six weeks after the siege:** Meets Rik at Russo’s and challenges the plans to administer the Embassy and help refugees. Opposes sentimental patriotism and martyrdom, wants to understand what Rik is withholding, and identifies the king’s connection with his missing years. Rik’s account of the king’s final act reframes the argument. Tiron ends by accepting another round on Rik’s tab, acknowledging his own involvement despite continued skepticism.
+
+**Practical contributions:** Supplies intelligence about remaining smuggler gates and the hardships of continued refugee travel. Suggests calling Rik “Chief” once Nichols recognizes the Embassy administration.
+
+**Later reference:** Rik and Jaysn remember his conversations/card games as a grounding influence. Rik says “the way Tiron used to”; this retrospective tone does not itself establish his death or a specific later fate. Jaysn says he never personally spoke to him, despite remembering him through Rik.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md); [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
+
+## Faran
+
+**Source context: Tales from Russo’s**
+
+Infantry-trained resistance associate and Ursza’s current pupil. Recounts an earlier infiltration in which he considered shooting the Warmaster with a needler while posing as a Notosian lance corporal. Says her recent month of instruction taught him more than two years in infantry.
+
+**Relationships and behavior:** Admires Ursza and underestimates how many fighters she can handle. Asks Russo to assess her ability; denies that their evening is a date. Watches the ensuing fight after Russo persuades him to stay seated, then tells Ulmer it was thirteen against one.
+
+**Naming limit:** These stories use Faran without a surname. They do not establish a numbered operative identity or his later career.
+
+**Sources:** [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+
 ## Feng, Sora
 
 **Source context: The Halferne Perfidy**
@@ -303,6 +387,20 @@ Tiron's former employer; attempts to bind Clerc through gambling debt; later dem
 
 **Sources:** 05, 06, 08. Amil/Emil variants occur.
 
+## Gibson, Archibald (Arch)
+
+**Source context: Tales from Russo’s**
+
+**Role and ranks:** Midway harbormaster in the framing story, addressed as “Sarge.” In the earlier rescue recollection, Lieutenant Archibald Gibson is a Machinist’s Mate in propulsion, preparing to take the chief engineer’s exam. Chooses a station-side harbormaster career, offering to resign his commission and reenlist so he can work under Sergeant Dover.
+
+**Capabilities and rescue:** Injured in the destruction of his Directorate ship, diagnoses a lifeboat’s failing atmosphere/power system despite a concussion and damaged wrist. Rejects a manned full-burn dash toward Midway. Instead combines the survivors into the other lifeboat, then sends the empty one under full acceleration with its distress transponder active. It draws the raiders away and alerts the station, allowing fifteen survivors to be rescued.
+
+**Character and relationships:** Practical, inventive, and quietly protective. Smits initially mistakes their authority relationship; Vallen points out Gibson outranks her. Gibson credits Smits’s contribution to the plan, while Nichols recognizes his achievement and Mercer’s gratitude.
+
+**Later frame:** Three weeks after Auria’s siege, two dockworkers thank him for spotting and helping save more than two hundred refugees whose ship lacked fuel to brake. Exhausted after twenty-seven hours on duty, he reflects at Russo’s. His remark that he knew the ship before it departed suggests advance coordination, but does not identify the “Guardian Angel” organizing the evacuations.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
 ## Gisler (Dr.)
 
 **Source context: The Halferne Deception**
@@ -310,6 +408,26 @@ Tiron's former employer; attempts to bind Clerc through gambling debt; later dem
 Researcher concerned about the Directorate taking his quantum storage/processing design.
 
 **Sources:** 17 The Party.
+
+## Goldwine (Sal; identified as the Aurian king)
+
+**Source context: Tales from Russo’s**
+
+Referenced man from sublevel five whom Rik rescued from Wart. Tiron says he and Alayn worked out that “Goldwine,” or “Sal,” was the king and connected Rik’s later opportunity to that encounter. Rik describes his subsequent close relationship with the king, who treated him as a person and sought his advice.
+
+**Fate and influence:** Rik says he watched the king die beneath a collapsed building while attempting to save a stranger during the invasion, despite trying to escape with his family. Rik makes that example of service a reason for helping refugees and resisting the occupation.
+
+**Evidence caution:** The Goldwine/Sal identification is Tiron’s deduction presented to Rik; the death and private relationship are Rik’s account. No full royal name is given in this story.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
+## Gunnarsson (Lieutenant)
+
+**Source context: Tales from Russo’s**
+
+Medic aboard the second lifeboat found in the wreckage. Stabilizes Commander Mercer after Gibson combines the survivors into one craft. Rescued with the group. No given name is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
 ## Halferne, Abil (the Raven)
 
@@ -345,6 +463,22 @@ Unseen written contact who asks Vyn to assist especially Rik, Tiron, Alayn, and 
 
 **Sources:** [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
 
+**Source context: Tales from Russo’s**
+
+Jaysn says Halferne cost him friends to expose a looming cosmic threat and questions whether the incomplete gestalt must accept an engineered purpose. Ursza is described as seeking to understand the design, possibly to control or destroy it. In After the Labyrinth, Serah and Ursza’s mental exchange explicitly refers to Halferne having manipulated Clay. These are later characters’ assessments, not a complete explanation of the plan.
+
+**Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md).
+
+## Haris / Harris (Private)
+
+**Source context: Tales from Russo’s**
+
+Infantry survivor and sharp-eyed lookout aboard Gibson’s lifeboat. Spots another surviving boat, exchanges status through coded worklight flashes, and later spots the distant rescue vessel. His visual acuity is stronger than his ship-silhouette identification.
+
+**Naming caution:** Haris and Harris refer to the same private within Guardian. Keep him distinct from Perfidy’s Marshal Harris. No given name is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
 ## Harris (Marshal)
 
 **Source context: The Halferne Perfidy**
@@ -352,6 +486,12 @@ Unseen written contact who asks Vyn to assist especially Rik, Tiron, Alayn, and 
 Claims Ministry of Transportation authority aboard Maguro. Defeated by Clay and killed by Klein. Obryn identifies him as a Tokusha agent using an improper marshal cover; keep that identification attributed.
 
 **Sources:** [05 Maguro](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/05%20Maguro.md)
+
+**Source context: Tales from Russo’s**
+
+**Disambiguation:** Guardian’s lifeboat survivor Private Haris/Harris is a separately presented person, recorded under Haris / Harris (Private). No connection to this marshal is established.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
 ## Hodges, Geoff
 
@@ -401,6 +541,16 @@ Information broker who identifies Clay’s cover and Ness. Clay takes his optica
 
 **Sources:** [04 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Excipio%20Station.md)
 
+## Kat
+
+**Source context: Tales from Russo’s**
+
+Participates in the gestalt during Ursza’s bar fight. Offers to come with a medkit, protests a knee injury, and alerts Ursza to an elderly civilian in danger. Ursza’s immediate knowledge of the injury’s prognosis reflects access to Kat’s medical understanding; Kat dislikes seeing it used that way.
+
+**Naming and scene limit:** No surname is given in this story. Her contributions are mental dialogue; a physical arrival at the bar is not narrated.
+
+**Sources:** [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+
 ## Kathlyn — Clay’s daughter (surname unconfirmed)
 
 **Source context: The Halferne Perfidy**
@@ -408,6 +558,14 @@ Information broker who identifies Clay’s cover and Ness. Clay takes his optica
 Referenced deceased daughter, named in Clay’s conversation with Ness. Holo in his ring shows a curly-haired girl laughing. Nearly twenty years earlier, abducted with three companions during an off-Directorate museum trip; Clay’s account explains his inability to rescue her. Do not invent a surname or exact death circumstances.
 
 **Sources:** [12 Debate](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Debate.md); [14 Prudence](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/14%20Prudence.md); [27 The Well](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/27%20The%20Well.md)
+
+**Source context: Tales from Russo’s**
+
+Ursza returns Clay’s ring, which again projects an image of his daughter, described here as a young woman of about nineteen or twenty. Ursza retrieved it at the well the night after their last Excipio encounter. The memory triggers Clay’s longstanding grief.
+
+**Continuity note:** Perfidy’s ring image was described as a curly-haired girl; this later apparent age belongs to the holo’s presentation, not a resurrection or a newly living daughter.
+
+**Sources:** [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md).
 
 ## Katsaros, Jaysn
 
@@ -428,6 +586,26 @@ Referenced deceased daughter, named in Clay’s conversation with Ness. Holo in 
 **Naming caution:** Jasyn, Jason, and Katsaraos occur in passages referring to Jaysn Katsaros; no separate person is indicated.
 
 **Sources:** [03 Arrival](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/03%20Arrival.md); [04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md); [05 Tamana](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/05%20Tamana.md); [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [14 Lift](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/14%20Lift.md); [18 Rest](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/18%20Rest.md); [20 Altar](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/20%20Altar.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [24 Reunion](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/24%20Reunion.md); [27 Boom](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/27%20Boom.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [31 Moses](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/31%20Moses.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [38 Solvig](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/38%20Solvig.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
+**Source context: Tales from Russo’s**
+
+**Later gestalt:** Has joined Rik, Serah, and Ursza. Shares their memories and skills, was personally trained by Ursza, and reports both improved fighting and uncertainty about where his own preferences end and theirs begin. Rik values his grounding perspective. Jaysn says he never spoke personally with Tiron despite receiving memories of him.
+
+**Life and possessions:** Has an Earth beachside home and a ’58 Gerwin Drake, which Rik identifies through shared memories. Discusses rebuilding it together. Wine expertise predates joining the others; acquired repair expertise does not.
+
+**Choices:** Argues they can use their combined advantages to liberate Auria without first satisfying Halferne’s unknown purpose. In Fists and Feet, interprets the dockworkers’ brawl as friendly, encourages Ursza’s banter, and arranges brandy so she can invite them to her apartment.
+
+**Naming:** Jason and Jasyn occur for Jaysn in these stories.
+
+**Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+
+## Kell
+
+**Source context: Tales from Russo’s**
+
+Small, youngish card dealer/regular whom a larger player accuses of cheating. Russo knows him and accuses him of hustling the regulars. Kell insists the seven-kappa winning hand was genuinely luck, even if he had previously been hustling. Escapes the confrontation to sit beside Faran while Ursza handles the fight. No surname is supplied.
+
+**Sources:** [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
 
 ## Khanna, Vijay
 
@@ -513,6 +691,14 @@ Berger’s employee, mentioned in instructions to clean up and exclude yorohito 
 
 **Sources:** [18 Vivaine](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/18%20Vivaine.md)
 
+## Lutz
+
+**Source context: Tales from Russo’s**
+
+Referenced financial specialist credited by Rik with finding a way to rent the disused Aurian Embassy compound, including residences, offices, public rooms, and hangars. No surname, direct scene, or additional relationship is established here.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
 ## Madhavi, Cid / Sid
 
 **Source context: The Halferne Deception**
@@ -520,6 +706,14 @@ Berger’s employee, mentioned in instructions to clean up and exclude yorohito 
 Importer, collector, and employer financing the Thoughtbridge theft; extensive connections described by Vijay.
 
 **Sources:** 03, 11, 12, 14. Given-name variants Cid/Sid need resolution.
+
+## Malus (Emir)
+
+**Source context: Tales from Russo’s**
+
+Diego Garcia interview subject whom Clay cites when recalling Serah’s Tanis journalism award. No direct appearance or further biography is provided. Emir is retained as a title; the passage does not establish a separate given name.
+
+**Sources:** [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md).
 
 ## Matthews (Lieutenant)
 
@@ -531,6 +725,30 @@ Base officer who initially assists with unloading, laboratory arrangements, comm
 
 **Sources:** [04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md); [08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md).
 
+## Melendez, Camilla
+
+**Source context: Tales from Russo’s**
+
+Jafet Melendez’s wife. Recalled through Serah’s shared memory of meeting her once at a brothel in a virtual reconstruction of twentieth-century De Wallen. Rik and Jaysn simultaneously access the memory and quickly clear their minds. No broader relationship or profession is established.
+
+**Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
+
+## Melendez, Jafet
+
+**Source context: Tales from Russo’s**
+
+NPNA personality appearing in the newsfeed Rik and Jaysn watch. Associated with Serah’s former work; Jaysn remarks on his self-confidence. Husband of Camilla. His appearance here is a broadcast, not a visit to Russo’s.
+
+**Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
+
+## Mercer (Commander)
+
+**Source context: Tales from Russo’s**
+
+First officer of Gibson’s destroyed Directorate ship. Gravely wounded in the lifeboat; Sergeant Smits cannot adequately treat him with its first-aid kit. Lieutenant Gunnarsson later stabilizes him. Nichols anticipates a personal letter of gratitude from him. No given name is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
 ## Mitchell, Alexander
 
 **Source context: The Halferne Deception**
@@ -538,6 +756,12 @@ Base officer who initially assists with unloading, laboratory arrangements, comm
 Vantaris CEO; host of the party and owner of privileged terminal access.
 
 **Sources:** 12, 17, 18.
+
+**Source context: Tales from Russo’s**
+
+Referenced through Rik’s shared memories: Jaysn recalls a wine encounter at Mitchell’s party during the Thoughtbridge heist. This is a retrospective memory, not a new direct appearance.
+
+**Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
 
 ## Mother Eye
 
@@ -552,6 +776,12 @@ Vantaris CEO; host of the party and owner of privileged terminal access.
 **Scope limitation:** Perfidy does not establish the later books’ deeper origin revelation. Do not import that biography into this book’s evidence.
 
 **Sources:** [11 Pursuit](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/11%20Pursuit.md); [19 Scrub](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/19%20Scrub.md); [30 Norinaga](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/30%20Norinaga.md); [38 (Shuttle)](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/38%20(Shuttle).md); [40 Hello, Mother](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/40%20Hello%2C%20Mother.md).
+
+**Source context: Tales from Russo’s**
+
+Clay describes Mother Eye as gone and treats the change as ending the old manipulation of Notosian public facts. This is a later reference during his confrontation with Serah; the story does not narrate her death or identify its perpetrator.
+
+**Sources:** [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md).
 
 ## Nappal (Mr.)
 
@@ -574,6 +804,30 @@ Pilgrim whom Klein says he spared; called harmless but overdependent on others. 
 **Fate:** Protects Omari during the faction meeting; Ursza decapitates her in 35 The Long Knives. This is an actual narrated death.
 
 **Sources:** [04 Excipio Station](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/04%20Excipio%20Station.md); [12 Debate](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/12%20Debate.md); [32 Captured](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/32%20Captured.md); [36 The Long Knives](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/36%20The%20Long%20Knives.md).
+
+## Nichols, Munashe (Colonel)
+
+**Source context: Tales from Russo’s**
+
+Directorate officer who reviews Gibson’s rescue and commends him for saving fifteen people and keeping valuable cargo from raiders. Discusses fleet engineering opportunities and Gibson’s proposed move into Midway harbormaster work.
+
+**Later station role:** Keeps fast scouts in outer orbit, according to the dockworkers, out of concern about a Notosian fleet; this readiness helps the refugee rescue. Emil later reports that Nichols issued formal recognition of the Aurian Embassy under Rik’s administration.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md); [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
+## Nordril (General)
+
+**Source context: Tales from Russo’s**
+
+**Role and circumstances:** Aurian Minister of Defense and commander-in-chief of military forces. At Russo’s one month after the siege, conceals his origin through Terran dress, whiskey, and speech while carrying pronounced defeat and grief. Russo identifies him after Petrof addresses him as General.
+
+**Service and loss:** Stories credit him with losing two cruisers while holding the line long enough to evacuate twenty thousand refugees. He asks instead about those left behind. Accepts Petrof’s decision to seek his wife and daughter rather than join him.
+
+**Choices and relationship:** Has accepted a Directorate-sponsored small freighter commission but feels reduced to a figurehead. Refuses to hide or simply surrender, while judging that the moment to fight has not arrived. Russo offers the Osprey under commercial terms: twenty percent of net profits to finance refugees. Nordril accepts after discussing modifications, startup costs, bribes, and the delay before profitability.
+
+**Trajectory limit:** Ends with renewed resolve: he may need shelter now, but intends to become the storm. The story does not establish his later military outcome or a given name.
+
+**Sources:** [03 Before the Storm](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/03%20Before%20the%20Storm.md).
 
 ## Novik, Lev (Syn.; later Overseer)
 
@@ -631,6 +885,14 @@ Cerberus leader; poised woman apparently in her early thirties, olive-skinned, g
 
 **Sources:** 11 Assemble; 15 Rik and Poppy; 22 Krisp's End; 23 Betrayal.
 
+## Petrof
+
+**Source context: Tales from Russo’s**
+
+Former Aurian serviceman who refuses Nordril’s recruiting offer so he can reunite with his wife and young daughter or get them out of occupied Auria. Says he kept his oath to the king until the end. Nordril respects the choice and shakes his hand. No given name or rank is supplied.
+
+**Sources:** [03 Before the Storm](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/03%20Before%20the%20Storm.md).
+
 ## Prevo, Oron (Supreme Chancellor)
 
 **Source context: The Halferne Perfidy**
@@ -651,6 +913,12 @@ Referenced in Nina Leitner’s report as the Notosian chancellor whom Halferne s
 
 **Sources:** [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
 
+**Source context: Tales from Russo’s**
+
+Clay says Prevo drugged, tortured, and conditioned Ursza as the first Hēi Gēzi, while the second Hēi Gēzi, Serah, killed him and many supporters. This places his reported death before the conversation four months before liberation. The actual killing is not narrated in these stories.
+
+**Sources:** [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md).
+
 ## Prudence
 
 **Source context: The Halferne Perfidy**
@@ -659,6 +927,14 @@ Young yorohito at Klein’s pilgrimage camp; mousy-brown bob, green eyes. Draws 
 
 **Sources:** [14 Prudence](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/14%20Prudence.md); [15 Ascent](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/15%20Ascent.md); [16 Klein](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/16%20Klein.md)
 
+## Prytannus, Cwen Delanna
+
+**Source context: Tales from Russo’s**
+
+Aurian royal figure who enters Russo’s at the end of Wine, Women, and Song. Embassy guards precede her; Rik recognizes that their presence means she is coming. Jaysn anticipated the visit and leaves after helping lighten Rik’s mood. The story ends at her arrival and does not supply the ensuing conversation.
+
+**Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md).
+
 ## Raj
 
 **Source context: The Halferne Deception**
@@ -666,6 +942,14 @@ Young yorohito at Klein’s pilgrimage camp; mousy-brown bob, green eyes. Draws 
 Repair-shop worker assigned to Simuns' transport.
 
 **Sources:** 04 Mechanic.
+
+## Reeze (Captain)
+
+**Source context: Tales from Russo’s**
+
+Officer Nichols says would welcome Gibson into engineering. Referenced as an alternative to Gibson’s requested harbormaster career; no given name or direct scene is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
 ## Rousseau, Michelle (Syn.)
 
@@ -684,6 +968,24 @@ SDEC liaison SI during Jaysn’s transit. Appears on screen as a young woman who
 Operator at the neutral venue Rube's; accepts payment to support Tiron's cover story.
 
 **Sources:** 05, 06. Exact preferred form to confirm.
+
+## Russo (Sheng — author-confirmed identity)
+
+**Source context: Tales from Russo’s**
+
+**Written role and appearance:** Proprietor/bartender of Russo’s on Midway, across from the Aurian Embassy. After the Labyrinth describes him as slender and dark-skinned; Fists and Feet calls him a big man. Attentive host who often supplies the next drink before being asked, reads moods, and manages information as well as hospitality.
+
+**History and refuge:** Says he has slept on a cot behind the bar for six years, after a short-lived dream/plan and a period of wandering. Shelters refugees and employs or receives help from Skeetz. Argues that compassion does not require having suffered exactly as another person has.
+
+**Nordril arrangement:** Offers his Class 4 freighter Osprey, which he says a deceased indebted patron left him. Requires twenty percent of its net profits for the refugee cause, giving Nordril a way to accept help without taking charity. Understands the need for startup time and patient financing.
+
+**Relationships and conduct:** Observes Arch’s exhaustion and the refugees’ arrival. Knows enough about Clay to ask whether he still serves Division 5 and watches his confrontation with Serah. Helps Rik and Jaysn connect through their drinks. During Ursza’s brawl, keeps Faran seated, asks that the fight move outside to reduce damage, and gives Ulmer a diplomatically incomplete account.
+
+**Author-confirmed identity:** In the author’s discussion, Russo is Sheng, the elder-brother figure who becomes a hidden parent for the family while thinking of himself as someone looking out for them. These six stories do not openly reveal that identity. Keep the author’s knowledge distinct from what patrons and readers are explicitly told.
+
+**Naming limit:** No family name for Russo/Sheng is established within these stories; the register retains his written bar identity until a prose source supplies the fuller name.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md); [03 Before the Storm](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/03%20Before%20the%20Storm.md); [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md); [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
 
 ## Saleh, Tariq (Obryn)
 
@@ -741,6 +1043,14 @@ Repair customer.
 
 **Sources:** 04 Mechanic.
 
+## Skeetz
+
+**Source context: Tales from Russo’s**
+
+Boy helping Russo restore tables and chairs after refugee accommodation in Before the Storm. Folds the blanket from a collapsed cot. No surname, exact age, or broader history is supplied.
+
+**Sources:** [03 Before the Storm](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/03%20Before%20the%20Storm.md).
+
 ## Smit, Luuk
 
 **Source context: The Halferne Deception**
@@ -754,6 +1064,18 @@ Repair customer.
 * His private motives and degree of independence from Bix remain unestablished.
 
 **Sources:** 03 Clerc; 11 Assemble; 18 Into Vantaris; 20 Escape; 23 Betrayal.
+
+## Smits (Sergeant)
+
+**Source context: Tales from Russo’s**
+
+Infantry sergeant among the lifeboat survivors, an experienced “Old Mustache” improvising medical care. Stabilizes two unconscious lieutenants but cannot adequately treat Mercer. Understands the classified mission and argues that normal rescue will not arrive in time.
+
+Proposes using full thrust to attract rescue or draw the raiders away, then protests Gibson’s different maneuver as disobedience until Vallen reminds her that he is an officer. Gibson later credits her idea in his interview with Nichols. Rescued with the fifteen.
+
+**Identity caution:** Distinct from Luuk Smit in Deception; no given name is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
 ## Sokolova, Daria
 
@@ -826,6 +1148,26 @@ Apartment agent who reports the confiscation and account freeze to Tiron.
 
 **Sources:** 08 Rik and Lora.
 
+## Ulmer (Major)
+
+**Source context: Tales from Russo’s**
+
+Midway station security chief. Clay describes him as efficient and by the book after obtaining permission to carry a defensive plaser, and suspects surveillance is trained on him; the surveillance is Clay’s inference.
+
+**Observed relationship with Russo:** Arrives with one guard after the dock-union fight, knowingly anticipates Russo’s inability to identify the participants, and says he expected the situation to de-escalate before he arrived. Accepts the account with dry humor and leaves; dismisses Faran’s thirteen-against-one clarification.
+
+**Limits:** His tolerance of Russo’s handling of this incident is observed. These stories do not establish a formal blanket exemption for the bar or a declared policy about resistance activity. No given name is supplied.
+
+**Sources:** [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+
+## Vallen, Ozi (Private First Class)
+
+**Source context: Tales from Russo’s**
+
+Infantry survivor aboard Gibson’s lifeboat. Introduces the other soldiers, helps remove the atmosphere unit casing, and follows Gibson’s engineering directions. Explains Gibson’s officer rank when Smits protests his actions. Rescued with the group.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
 ## van Rijn, Max / Van Rijm / Van Der Jilk
 
 **Source context: The Halferne Perfidy**
@@ -868,6 +1210,18 @@ Names Halferne invokes to stop Ursza during the Excipio confrontation. They prov
 
 **Sources:** [08 Hostel](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/08%20Hostel.md); [21 Shrine](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/21%20Shrine.md); [29 Gu’Senlin](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/29%20Gu%E2%80%99Senlin.md); [36 The Long Knives](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/36%20The%20Long%20Knives.md); [39 Denouement](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/39%20Denouement.md); [40 Hello, Mother](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/40%20Hello%2C%20Mother.md).
 
+**Source context: Tales from Russo’s**
+
+**Later independence and gestalt:** Rik, Serah, and Jaysn discuss her recovery and their shared memories. Jaysn says she had substantially stabilized through Rik and Serah before meeting him; she left their immediate company because she felt her presence disrupted their dynamic. Their friendship and training deepen her connection to the group. These are later accounts, not a change to Perfidy’s ending.
+
+**Reunion with Clay:** Alive and allied with Serah in the planned liberation. Returns his daughter’s holo ring, which she retrieved from the well after their final Excipio encounter. Tells him he could not personally save her, but made it possible for Serah to do so, and that she and Serah must now save each other. Their later mental exchange prioritizes an honest account Clay can live with over exposing every manipulation.
+
+**Fists and Feet:** Trains Faran and protects Kell from a bullying card player. Fights thirteen dock-union men while the gestalt debates safety, publicity, banter, and injuries. Restrains her conditioned reach for blades and shuriken under Rik’s warning. Protects an elderly civilian at cost of taking a punch; eventually recognizes the others are enjoying the fight and accepts Jaysn’s suggestion to invite them for brandy.
+
+**Boundaries:** The “date” is Russo’s teasing interpretation, denied by Faran. Her claims about defenses against a needler are dialogue, while her movement and restraint are directly shown. Do not collapse Ursza and Serah into one Hēi Gēzi identity.
+
+**Sources:** [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+
 ## Vivaine
 
 **Source context: The Halferne Perfidy**
@@ -883,6 +1237,20 @@ Yorohito whom Clay meets at the Fontaine party; explains conditioning and her at
 Large collector who destroys shop equipment while his partner assaults Rik.
 
 **Sources:** 09, 10.
+
+**Source context: Tales from Russo’s**
+
+Referenced as the aggressor from whom Rik rescued Goldwine/Sal, whom Tiron and Alayn later identified as the Aurian king. No physical appearance in this story.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
+## Wilks (Private)
+
+**Source context: Tales from Russo’s**
+
+Infantry survivor aboard Gibson’s damaged lifeboat. Helps watch raider movement through the portholes. Rescued with the combined group; no given name is supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
 ## Wolff (Major)
 
@@ -901,6 +1269,24 @@ Large collector who destroys shop equipment while his partner assaults Rik.
 **Threat revelation:** Halferne later calls the raid/mutiny a staged operation. That does not establish that Wolff himself knew the threat was fabricated.
 
 **Sources:** [04 Intro Wolff](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/04%20Intro%20Wolff.md); [07 Briefing](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/07%20Briefing.md); [08 Enemies at the Gate](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/08%20Enemies%20at%20the%20Gate.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [15 Arch](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/15%20Arch.md); [17 Gallery](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/17%20Gallery.md); [23 Ceremony](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/23%20Ceremony.md); [25 J&T](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/25%20J%26T.md); [27 Boom](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/27%20Boom.md); [31 Moses](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/31%20Moses.md); [33 Wolff's End](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/33%20Wolff's%20End.md); [36 Meet the Reclamation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/36%20Meet%20the%20Reclamation.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
+## Wyles, Serah
+
+**Source context: Tales from Russo’s**
+
+**Role and earlier history:** Former NPNA foreign correspondent, recognized by Clay for multiple journalism awards and a Tanis award for interviewing Emir Malus. The occupation interrupted her career; Clay recalls she was briefly presumed dead. Rik and Jaysn now have access to her memories of agency colleagues and relationships.
+
+**Gestalt and resistance:** Shares memories/emotions with Rik, Ursza, and Jaysn, and later participates in the mental exchange involving Kat. Tiron says she warned him against pressing Rik about his missing years. Associated with the Aurian Embassy and resistance.
+
+**Hēi Gēzi confrontation:** Clay identifies her as the second, “Blue,” Hēi Gēzi, distinct from Ursza’s “Red” version. His account accuses her of atrocities and emphasizes that she removed Prevo and her controllers; she does not offer external control as an excuse. Asked whether the conditioning can be broken, says it can be “overruled.” Her present remorse contrasts with the persona in Clay’s intelligence reports.
+
+**Relationships and choices:** Knows Clay arrived prepared to die and redirects him toward the living Ursza. In their later mental conversation, suggests Clay could help uncover Halferne’s remaining design; Ursza insists he deserves an honest account he can live with.
+
+**Evidence caution:** Clay’s detailed accusations are his account and should not become a new independently audited casualty list. Her shared memories and the text’s mental dialogue establish the connection, but do not explain every technical mechanism.
+
+**Naming:** The source uses Serah Wyles. Retain this source form pending comparison with her origin novel. Do not merge her Hēi Gēzi identity into Ursza’s earlier use of the same designation.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md); [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md); [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md); [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
 
 ## Yogananda Rimpoche / Yogadana
 
@@ -938,6 +1324,22 @@ Interrogate/coerce Clay; individual names are not supplied.
 
 **Sources:** [33 The Hound](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/33%20The%20Hound.md); [34 The End](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/34%20The%20End.md)
 
+### Gibson’s unnamed bridge-crew survivors
+
+**Source context: Tales from Russo’s**
+
+Two unconscious lieutenants whom Smits stabilizes in the first lifeboat. Separate from the named first officer Mercer. Rescued as part of the combined group.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
+### Guardian Angel — refugee evacuation organizer
+
+**Source context: Tales from Russo’s**
+
+Rumored organizer who knows smuggler-gate locations and Notosian patrol movements and arranges ships, crews, routes, and schedules for escaping Aurians. The dockworkers discuss this role; Guardian does not supply a personal identity. Do not automatically identify the organizer as Arch or Russo.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
 ### Harba café proprietor
 
 **Source context: The Halferne Perfidy**
@@ -969,6 +1371,46 @@ Tall, dark-skinned man explains the statue’s history and exchange tradition. F
 Separate participants in Clay’s yacht encounter; do not give the intruder an identity beyond what subsequent revelations support.
 
 **Sources:** [07 La Terreur](https://github.com/djaysnider/01-The-Halferne-Perfidy/blob/main/07%20La%20Terreur.md)
+
+### Midway dockworkers thanking Arch
+
+**Source context: Tales from Russo’s**
+
+Two new fourth-shift workers buy Arch a drink after the rescue of more than two hundred refugees. Describe the arrivals’ deprivation and discuss the Guardian Angel’s evacuation routes and Nichols’s fast scouts. No names are supplied.
+
+**Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
+
+### Osprey’s deceased former owner
+
+**Source context: Tales from Russo’s**
+
+Russo says a former patron indebted to him left him the freighter Osprey on death. No name, exact debt, or further identity is established.
+
+**Sources:** [03 Before the Storm](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/03%20Before%20the%20Storm.md).
+
+### Rik’s king’s unnamed final rescue target
+
+**Source context: Tales from Russo’s**
+
+Stranger trapped beneath rubble whom the king attempted to save during the invasion, according to Rik. The story does not establish this person’s survival or identity.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
+
+### Russo’s dock-union brawlers
+
+**Source context: Tales from Russo’s**
+
+Thirteen men involved in the fight with Ursza, initially led by the large player who assaults Kell. Share sleeve patches and are later identified by Russo as dock-union locals. Enjoy the encounter and accept Ursza’s invitation for brandy; individual names are not supplied.
+
+**Sources:** [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md).
+
+### Russo’s unnamed crooner
+
+**Source context: Tales from Russo’s**
+
+Performer with a portable keyboard at Rik and Tiron’s meeting. Sings a Terran jazz farewell song; the author’s footnote identifies it as “I’ll Be Seeing You.” No personal name is supplied.
+
+**Sources:** [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md).
 
 ### Starliner’s personal bartender
 
@@ -1050,3 +1492,25 @@ Reviewed 2026-10-11 against manuscript files 03–40 in [04-The-Halferne-Expedit
 * In 26 Solvig Awakens, Novik’s scan identifies distant human forms as “Clarc and Novik.” The surrounding sequence points to Clarc and Wolff; retain this as a prose-reference issue rather than inventing a second Novik.
 
 **Sources:** [06 Galley](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/06%20Galley.md); [10 Descent](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/10%20Descent.md); [22 Revelation](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/22%20Revelation.md); [26 Solvig Awakens](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/26%20Solvig%20Awakens.md); [29 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/29%20Overseer.md); [32 Clarc's Past](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/32%20Clarc's%20Past.md); [33 Wolff's End](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/33%20Wolff's%20End.md); [35 Overseer](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/35%20Overseer.md); [37 Halferne](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/37%20Halferne.md); [38 Solvig](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/38%20Solvig.md); [39 Clarc](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/39%20Clarc.md); [40 Jaysn](https://github.com/djaysnider/04-The-Halferne-Expedition/blob/main/40%20Jaysn.md).
+
+### Tales from Russo’s coverage and continuity notes
+
+Reviewed 2026-10-11 against all six prose stories (files 02–07) in [13-Tales-From-Russos](https://github.com/djaysnider/13-Tales-From-Russos), at repository tree `1a0893a9e778035b91d07920b8d014502539a9df`. Includes directly appearing, mentally participating, broadcast, and referenced fictional characters. Author-confirmed Russo/Sheng identity is labeled separately from the stories’ unrevealed in-world knowledge. Historical names in epigraphs, cultural references, and song credits are not fictional cast entries.
+
+| Story | Explicit story time |
+| --- | --- |
+| [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md) | Three weeks after the Siege of Auria; contains an earlier lifeboat-rescue recollection |
+| [03 Before the Storm](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/03%20Before%20the%20Storm.md) | One month after the siege |
+| [04 Purpose and Promise](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/04%20Purpose%20and%20Promise.md) | Six weeks after the siege |
+| [05 Wine, Women, and Song](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/05%20Wine%2C%20Women%2C%20and%20Song.md) | Four years, six months after the siege |
+| [06 After the Labyrinth](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/06%20After%20the%20Labyrinth.md) | Four months before the Liberation of Auria |
+| [07 Fists and Feet](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/07%20Fists%20and%20Feet.md) | Three months before liberation |
+
+* Preserve the distinction between origins and later wartime abilities. Shared memories and Gu’Senlin skills in these stories do not imply the characters possessed them during their earlier novels.
+* Haris/Harris is one lifeboat private, distinct from Marshal Harris. Smits is distinct from Luuk Smit; Emil is not established as Ghaffari. Single-name entries remain unexpanded where these sources do not supply surnames.
+* Serah’s surname appears as Wyles here; confirm its preferred form against her origin manuscript. Jason/Jasyn refer to Jaysn, and Urza/Urza-like variants refer to Ursza in context; these should not generate additional characters.
+* Clay’s accusations and the characters’ accounts of past events remain attributed. The deaths of Prevo and Mother Eye are references here, not newly narrated scenes. Tiron’s retrospective absence does not by itself establish his death.
+* Guardian’s framing Arch is an enlisted harbormaster addressed as Sarge; his flashback rank is Lieutenant. His proposed resignation and reenlistment supply the transition rather than a separate Gibson identity.
+* Guardian introduces nine in the first lifeboat but lists Gibson, five infantry personnel, Smits, and three wounded officers (ten people). The other boat has six, while the combined rescue is repeatedly fifteen. Preserve the cast and flag the passenger arithmetic for manuscript review.
+* Before the Storm discusses five remaining smuggler gates one month after the siege; Purpose and Promise lists three routes six weeks after it. Different dates permit a changed situation; do not force the counts to match without reviewing the evacuation chronology.
+* Russo’s appearance shifts between “slender” in After the Labyrinth and “big man” in Fists and Feet. These need not imply separate bartenders, but are worth checking for consistent physical description.
