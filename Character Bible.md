@@ -111,7 +111,7 @@ After the earlier shop troubles, smuggles Cort with Tiron and encounters Sal in 
 
 **Capabilities and choices:** Reads people and pressure situations quickly, questions ritual security procedures, wins Helena’s first infiltration challenge, and chooses to help compromised Ibarra by paying his debt rather than discarding him. Recognizes the incoming false transport by its dead soldiers’ names. Repairs the damaged escaping shuttle under extreme heat and electrical injury; the King pulls him clear and Helena restores controlled flight.
 
-**Continuity:** Opening uses Rickard, later Rikkard. The Wart attack is on sublevel twenty here versus sublevel five in Tiron’s Tales recollection. These are source discrepancies, not separate Rik/Sal encounters established by the register.
+**Continuity:** The Wart attack is on sublevel twenty here versus sublevel five in Tiron’s Tales recollection. These are source discrepancies, not separate Rik/Sal encounters established by the register.
 
 **Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md); [06 (Rik and Sal)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/06%20%28Rik%20and%20Sal%29.md); [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [11 (Rik’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/11%20%28Rik%E2%80%99s%20Debate%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20%28Serah%E2%80%99s%20Break%20Into%20Two%29.md); [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
@@ -261,8 +261,6 @@ Synthetic intelligence whom Cari introduces as her father during a holo conversa
 
 Tesnica weapons designer and prototype custodian; victim of Rik's theft and Tiron's con. Later helps redirect Tesnica toward Tiron.
 
-**Sources:** 03–06; 08. Marten/Martin/Marty/Clerk variants occur.
-
 ## Conner (Captain)
 
 **Source context: The Halferne Expedition**
@@ -325,8 +323,6 @@ Angered by Rik’s acceptance of royal office and feels betrayed. Nevertheless h
 Introduces himself to Serah aboard the Olorin as Phaedo Uller, knows her journalism, discusses Aurian culture and her VSR, and offers to arrange a palace visit. After her collapse, the manifest and ship recordings contradict her memory of meeting him.
 
 Erik’s investigation identifies the matching man as Vad Deacon, nominally a commander in the Aurian Royal Marine Corps with a long paid service record but no normal assignments. His actual function remains uncertain. Serah later suspects his involvement in her drugging and the palace conspiracy; that suspicion is not independent proof.
-
-**Name issue:** File 17 calls him “Lev Deacon” while file 13 gives “Vad Deacon.” Retain as a draft variant pending confirmation; no connection to Lev Novik.
 
 **Sources:** [05 (Intro Serah)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/05%20%28Intro%20Serah%29.md); [10 (Serah’s Phone Call)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/10%20%28Serah%E2%80%99s%20Phone%20Call%29.md); [13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20%28Serah%E2%80%99s%20Debate%29.md); [17 (Tiron)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/17%20%28Tiron%29.md).
 
@@ -451,8 +447,6 @@ Young communications specialist in Kirch’s unit. Panics during the New Rinsic 
 
 Smuggling companion and repair-shop partner. Misses the seriousness of the encounter with Sal at first, then helps Rik confront his fear of accepting responsibility. Finds the drugged Serah at the shop; initially assumes she is an addict, but her blood-written reference to Rik makes him help. Treats her cut, calls Alayn, and helps reconstruct the attempted murder.
 
-**Name issue:** File 03 calls him Tiron Eksaar, whereas later prose uses Essien. Retain as an unresolved surname variant, not an added person.
-
 **Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md); [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [11 (Rik’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/11%20%28Rik%E2%80%99s%20Debate%29.md); [17 (Tiron)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/17%20%28Tiron%29.md).
 
 ## Farrir (Sergeant)
@@ -499,7 +493,7 @@ Garrison technical/supervisory officer involved in linking the repaired transpor
 
 **Sources:** [09 (The Trigger)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/09%20%28The%20Trigger%29.md).
 
-## Ghaffari, Amil / Emil
+## Ghaffari, Amil
 
 **Source context: The Halferne Deception**
 
@@ -887,8 +881,6 @@ Cybernetically connected palace-security specialist monitoring the complex throu
 
 Tracks system anomalies around the security-roster leak and assists Rik during Helena’s infiltration tests. “Palace” is his communications role/callsign in those exchanges.
 
-**Variants:** Ced appears in file 18 in the same monitoring role; Leander appears in file 19. Treat as contextual draft variants pending confirmation.
-
 **Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [13 (Serah’s Debate)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/13%20%28Serah%E2%80%99s%20Debate%29.md); [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
 ## Leitner, Nina (Syn.)
@@ -997,7 +989,7 @@ King’s chief of staff. Challenges the failed palace response and Ibarra’s ex
 
 **Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
-## Mect / Mecht (Gerefe)
+## Mecht (Gerefe)
 
 **Source context: The Malyon Gambit**
 
@@ -1291,7 +1283,7 @@ Aurian royal figure who enters Russo’s at the end of Wine, Women, and Song. Em
 
 Cwen/queen of Auria and Salvator’s wife. Challenges Serah’s journalism and media assumptions, recalls Prevo from university, and judges Rik’s motives and willingness to sacrifice himself. “Cwen” functions as a royal title in this manuscript; the earlier heading is retained for continuity.
 
-**Name variants:** Delana and Delanna appear; file 18 also uses Prytani. Jodara Wilkns is introduced as her cousin.
+**Name variants:** Jodara Wilkns is introduced as her cousin.
 
 **Sources:** [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [14 (Reception)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/14%20%28Reception%29.md); [16 (Serah’s Break Into Two)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/16%20%28Serah%E2%80%99s%20Break%20Into%20Two%29.md); [18 (Enter Helena)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/18%20%28Enter%20Helena%29.md).
 
@@ -1313,7 +1305,7 @@ Explicitly introduced as King Salvator Prytannus when Rik is brought to the pala
 
 On Malyon, helps seal shuttle breaches, assists with engine diagnostics, and pulls Rik from the heating compartment after the emergency repair. Later death remains the separate Tales account, not an event shown in this manuscript.
 
-**Variants:** Salvator, Salvatore, and Salvan occur in context. Goldwine is a status/title used of him, not an established surname.
+**Variants:** Goldwine is a status/title used of him, not an established surname.
 
 **Sources:** [03 (Intro Rik)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/03%20%28Intro%20Rik%29.md); [06 (Rik and Sal)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/06%20%28Rik%20and%20Sal%29.md); [08 (Serah and Delanna)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/08%20%28Serah%20and%20Delanna%29.md); [19 (Planetfall)](https://github.com/djaysnider/07-The-Malyon-Gambit/blob/main/19%20%28Planetfall%29.md).
 
@@ -1329,7 +1321,7 @@ Repair-shop worker assigned to Simuns' transport.
 
 **Source context: Tales from Russo’s**
 
-Officer Nichols says would welcome Gibson into engineering. Referenced as an alternative to Gibson’s requested harbormaster career; no given name or direct scene is supplied.
+Colonel Nichols says would welcome Gibson into engineering. Referenced as an alternative to Gibson’s requested harbormaster career; no given name or direct scene is supplied.
 
 **Sources:** [02 Guardian](https://github.com/djaysnider/13-Tales-From-Russos/blob/main/02%20Guardian.md).
 
@@ -2055,17 +2047,14 @@ Reviewed 2026-10-11 against all six prose stories (files 02–07) in [13-Tales-F
 * Before the Storm discusses five remaining smuggler gates one month after the siege; Purpose and Promise lists three routes six weeks after it. Different dates permit a changed situation; do not force the counts to match without reviewing the evacuation chronology.
 * Russo’s appearance shifts between “slender” in After the Labyrinth and “big man” in Fists and Feet. These need not imply separate bartenders, but are worth checking for consistent physical description.
 
-
 ### The Malyon Gambit coverage and continuity notes
 
 Reviewed 2026-10-11 against all current prose files 03–19 in [07-The-Malyon-Gambit](https://github.com/djaysnider/07-The-Malyon-Gambit), at tree `d85535351504acf4fbbbcfd6420d6e6c81192c77`. The outline was consulted to distinguish plans from written events. The prose currently ends with the shuttle's recovery near Malyon's treetops and Serah/Ibarra/Rik discussing the security leak; no later planned resolution is recorded as completed canon.
 
-* Full-name evidence resolves the former Sal/Goldwine heading as Salvator Prytannus and Nordril as Rhys Nordril. Faran Ibarra and Emil Tahir are associated with the later single-name Tales entries by context; those stories' own naming limits remain preserved.
-* Phaedo Uller is identified by Erik as Vad Deacon. The “Lev Deacon” reference in file 17 is retained as an unresolved variant, not equated with Lev Novik.
-* Tiron Eksaar/Essien, Rickard/Rikkard, Wiles/Wyles/Sereh, Gerhart/Gerhardt, Mect/Mecht, Cen/Ced/Leander, Delana/Delanna/Prytani, and Salvator/Salvatore/Salvan require consistency review. Ibarra becomes Ibaraa/Iolder in file 19. These do not generate duplicate characters.
-* Keldin's rank/address shifts among lieutenant, chief warrant officer, Chief, and Sergeant; one New Rinsic retreat passage inserts Peretz into his position. Ibarra is usually Major but becomes Lieutenant in file 19. Record the differences without editing the source manuscript.
-* Rik's encounter with Sal is on sublevel twenty in Malyon, versus sublevel five in the Tales recollection. The locations need reconciliation.
-* Gern is Helena's infiltration disguise. Erik is Wendi Sparks's persona. Doctor Wyles is an attacker's claimed cover. Sparrow here is Emil Tahir's callsign and does not establish a connection to Sheng's designation. Cwen, Goldwine, Gerefe, Haleth, Duguth, Beorn, and Guma are treated as titles/status terms where the prose uses them that way.
-* Fenzo's account and claims of authority remain attributed. Serah and Rik's reconstruction implicates Maugrim, but the manuscript explicitly calls the evidence circumstantial and does not yet show an arrest or final resolution.
-* The Transport 4 scene first lists nine dead and seven unaccounted for; file 12 later commemorates nineteen dead. Keep the named casualties while checking the final accounting. Danoy's transport is hit and contact lost; her individual recovery is not shown.
-* Historical people, epigraph/song credits, fictional characters inside Serah's own novel, drug/product names (including Cort), and unnamed group delegates are not mistaken for named members of the main cast. The Emir of Persia reference is left unattributed to an existing named Emir without further identity evidence.
+- Full-name evidence resolves the former Sal/Goldwine heading as Salvator Prytannus and Nordril as Rhys Nordril. Faran Ibarra and Emil Tahir are associated with the later single-name Tales entries by context; those stories' own naming limits remain preserved.
+- Keldin's rank/address shifts among lieutenant, chief warrant officer, Chief, and Sergeant; one New Rinsic retreat passage inserts Peretz into his position. Ibarra is usually Major but becomes Lieutenant in file 19. Record the differences without editing the source manuscript.
+- Rik's encounter with Sal is on sublevel twenty in Malyon, versus sublevel five in the Tales recollection. The locations need reconciliation.
+- Gern is Helena's infiltration disguise. Erik is Wendi Sparks's persona. Doctor Wyles is an attacker's claimed cover. Sparrow here is Emil Tahir's callsign and does not establish a connection to Sheng's designation. Cwen, Goldwine, Gerefe, Haleth, Duguth, Beorn, and Guma are treated as titles/status terms where the prose uses them that way.
+- Fenzo's account and claims of authority remain attributed. Serah and Rik's reconstruction implicates Maugrim, but the manuscript explicitly calls the evidence circumstantial and does not yet show an arrest or final resolution.
+- The Transport 4 scene first lists nine dead and seven unaccounted for; file 12 later commemorates nineteen dead. Keep the named casualties while checking the final accounting. Danoy's transport is hit and contact lost; her individual recovery is not shown.
+- Historical people, epigraph/song credits, fictional characters inside Serah's own novel, drug/product names (including Cort), and unnamed group delegates are not mistaken for named members of the main cast. The Emir of Persia reference is left unattributed to an existing named Emir without further identity evidence.

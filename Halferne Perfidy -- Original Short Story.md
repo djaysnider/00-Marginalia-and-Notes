@@ -1,3 +1,5 @@
+# The Halferne Perfidy: NaNo Draft 0
+
 This was actually the second short story after The Halferne Incubus, which I attempted for Nano 2017. I got about two chapters into it and abandoned absolutely everything except for the introduction, which is now Chapter 4, where Clay goes through the market and sees Ursza in the hostel canteen. By now, that’s been rewritten so many times, the bit about “Anyone could see she didn’t belong in this world...” is probably the only words that survived.
 
 In the original short story, Ursza was still an innocent Gu’Senlin Bikuni-turned-mercenary who came to Notosia looking for reputation-building work. The terrorist leader Hei Gezi has caught wind of her skills and intends to use her for his purposes. He puts out word that any free traders who give her passage off-world will be met with swift retribution. Then he sent Clay, a slightly naive rebel freedom fighter nicknamed Chakal, to collect her at the hostel.
@@ -12,35 +14,30 @@ The story would have progressed with three or four short vignettes of her recrui
 
 At that moment, Prevo and the Tokusha storm the club, Ursza goes berzerk killing everyone, as she has been working for Prevo all along (no determination whether she was brainwashed into doing this, or was just amoral from the get-go and did it for the paycheck, I was still playing with both ideas at this point). Halferne escapes (of course he had a contingency). Clay is arrested and charged with treason. The story would have ended with him being led to a firing squad for execution while Ursza watches. In another version, she was arrested and rescued at the last minute when factions loyal to her overthrow the government. Either way, Halferne still blows the gate and leaves her there in a position of power and dubious state of mind.
 
- __ 
+__
 
 The Halferne Perfidy
 
 By Darrin Snider
 
-"For now, this fearful night,
-
-There is no stir or walking in the streets,
-
-And the complexion of the element 
-
-In favor's like the work we have in hand,
-
-Most bloody, fiery, and most terrible." 
-
-\-- Cassius--Julius Caesar, Act 1, Scene 3
+> *For now, this fearful night,*  
+> *There is no stir or walking in the streets,*  
+> *And the complexion of the element*  
+> *In favor's like the work we have in hand,*  
+> *Most bloody, fiery, and most terrible.*  
+> Cassius--Julius Caesar, Act 1, Scene 3
 
 The din of the street market was an unholy incantation to chaos itself. Street vendors, peddlers, zealots, and highwaymen converged upon it and mingled amongst themselves until they were indistinguishable from one another. It was winter, and that meant sub-zero temperatures, a constant blanket of snow and slush on the ground, and an unceasing wind that whipped between buildings and stung any patch of skin left bare. Still, despite the abundance of large disused structures in the district, the market was set up outdoors in the streets and alleyways. It was probably the only tradition Notosia still held. It was a sign of the times. Notosia had never exactly been a hospitable place to live--just a botched social experiment set up by Mother Earth and then left to its own devices when it proved no longer useful.
 
-They were called political agitators by the legitimate world government back on Earth--people who refused to conform and play by the rules of the so-called "polite society." The few that allowed themselves to be captured endured the feigned pity of the people, the government, and the rule of laws they refused to acknowledge. Their own inhuman stubbornness and self-righteousness resisted all attempts to reform, rehabilitate, or, at the very least, silence them. 
+They were called political agitators by the legitimate world government back on Earth--people who refused to conform and play by the rules of the so-called "polite society." The few that allowed themselves to be captured endured the feigned pity of the people, the government, and the rule of laws they refused to acknowledge. Their own inhuman stubbornness and self-righteousness resisted all attempts to reform, rehabilitate, or, at the very least, silence them.
 
-The cruel irony was that those very same laws turned out to be their greatest ally. Earth's enlightened culture was based on tolerance and steadfastly refused to completely silence any undesirable element, even one so unapologetically dedicated to its downfall. Even as prisoners of the state, they were guaranteed a voice. They were handed the chance to make their case and tell their side of the story--and tell that story they did. 
+The cruel irony was that those very same laws turned out to be their greatest ally. Earth's enlightened culture was based on tolerance and steadfastly refused to completely silence any undesirable element, even one so unapologetically dedicated to its downfall. Even as prisoners of the state, they were guaranteed a voice. They were handed the chance to make their case and tell their side of the story--and tell that story they did.
 
 Volumes of treatises, manifestos, and commentaries were published from the prisons. Eloquent words were daggers in the breastplates of the magnanimous World Order. They told how the government had succumbed to corruption through society's complacency. They told how religion, morality, and humanity were nothing more than quaint, old-fashioned concepts --- just words on pages that were read and quoted to the letter, but never really understood or practiced. They told how Earth had lost its way, a slowly dying dragon in a long-forgotten dream. Certainly, this had been a rallying cry for fanatics, megalomaniacs, and madmen for centuries, yet once in a while a special kind of madman arises, one that carries a certain spark about himself--one that inspires hope, confidence, or at the very least, fear in those he meets. These are the dangerous ones, for whether their beliefs are right or wrong, they inevitably shape the world.
 
 Charisma is a powerful trait that carries ideas further than the truth alone. Nearly everyone read or listened to at least some of the "new thoughts" coming from the "correctional institutions", and many were starting to believe. Policies were questioned, changes were made, and grand schemes were adjusted. The ultimate impact may have only seemed infinitesimal at the time, but a wise man once said that even the beat of the smallest butterfly's wings can spark a hurricane somewhere in the world. Before too long, it was obvious that something needed to be done.
 
-Leadership and power rarely walk hand in hand. Many who wield power are, in reality, very poor leaders; others who are natural leaders lack the power in any real fashion. The sole aim of the former is to prevent the transfer of that power--perceived or actual--to the latter. And to that end, there is one indisputable truth held above all others: only leaders can become martyrs. Therefore, it was decided to give those dissidents what they craved most: a chance to mold a world in their own image. 
+Leadership and power rarely walk hand in hand. Many who wield power are, in reality, very poor leaders; others who are natural leaders lack the power in any real fashion. The sole aim of the former is to prevent the transfer of that power--perceived or actual--to the latter. And to that end, there is one indisputable truth held above all others: only leaders can become martyrs. Therefore, it was decided to give those dissidents what they craved most: a chance to mold a world in their own image.
 
 That world was Notosia.
 
@@ -56,7 +53,7 @@ I ignored most of the gatherers as I made my way through the streets to the mode
 
 A blast of welcome heat greeted me as the door opened. The noonday sun shone through the entryway, its brightness reflecting off the pale, zombie-like faces of the patrons within. I took a seat at a table against the far wall and ordered a meal that was, true to some immutable law of social dynamics, far superior to any I would have found in the more affluent quarters of the city. Once finished, I ignored the stares and polite suggestions from the patrons to move along and busied myself by pretending to read the latest headlines and editorial commentaries on my datapad.
 
-After two hours of waiting, she finally came down from her room. I had already seen her in an enhanced long-range surveillance photo--good enough to get a general idea of what she looked like, but nothing that could have prepared me for an honest, in-the-flesh sight of her. Anybody could see she didn't belong on this planet. She had the wrong build, the wrong coloring, the wrong clothes, and the look of life about her. She was tall for a female, almost 1.8 meters, I had been informed. Tresses of blonde hair framed an angular face beset with exotically shaped eyes of the deepest blue fire. She wore a form-fitting crimson leather tunic and gray pants adorned with a red, vein-like pattern. A dark green cloak was fastened loosely around her neck, concealing the hardware and weaponry she no doubt carried with her. She moved with the angular grace and balance of some predatory animal as she made her way through the room. 
+After two hours of waiting, she finally came down from her room. I had already seen her in an enhanced long-range surveillance photo--good enough to get a general idea of what she looked like, but nothing that could have prepared me for an honest, in-the-flesh sight of her. Anybody could see she didn't belong on this planet. She had the wrong build, the wrong coloring, the wrong clothes, and the look of life about her. She was tall for a female, almost 1.8 meters, I had been informed. Tresses of blonde hair framed an angular face beset with exotically shaped eyes of the deepest blue fire. She wore a form-fitting crimson leather tunic and gray pants adorned with a red, vein-like pattern. A dark green cloak was fastened loosely around her neck, concealing the hardware and weaponry she no doubt carried with her. She moved with the angular grace and balance of some predatory animal as she made her way through the room.
 
 Her name was Ursza Venter, and from what I had read, she was the most dangerous person on the planet.
 
@@ -72,7 +69,7 @@ She sat for a moment, puzzled and alone, no doubt wondering where she had gone w
 
 It didn't do much good.
 
-Like a wild animal, enraged at the challenge, the big man stood up and pointed a finger at her. I made out a few rather uncomplimentary remarks about her social habits as well as a particularly nasty threat if she didn't sit back down. She still stood passively, her face unchanging, eyes locked on the big man in some sort of feral challenge. 
+Like a wild animal, enraged at the challenge, the big man stood up and pointed a finger at her. I made out a few rather uncomplimentary remarks about her social habits as well as a particularly nasty threat if she didn't sit back down. She still stood passively, her face unchanging, eyes locked on the big man in some sort of feral challenge.
 
 He nodded to his partners, who reached out and grabbed her by the shoulder. Instantly, she crouched, disappearing momentarily from my view. When she reappeared, she was no longer wearing the bulky, heavy cloak and was standing between her two assailants. With no wasted motion whatsoever, she struck the first man in the throat, collapsing his windpipe. He gurgled his surprise and stumbled backward into the crowd. A swift side kick to the groin ensured that the other would be of no further concern.
 
@@ -102,7 +99,7 @@ Her grip tightened around my neck, and her eyes darted to one side briefly as sh
 
 "The starport bombings last month?"
 
-"No, that was Lib-Front." I tried to raise my arms to show that I was unarmed and meant no harm. I had been warned against carrying a weapon. The only reason I was still alive was that she didn't see me as a threat. As soon as I moved, however, an electrical current surged through the gloved fingers clasped around my throat. 
+"No, that was Lib-Front." I tried to raise my arms to show that I was unarmed and meant no harm. I had been warned against carrying a weapon. The only reason I was still alive was that she didn't see me as a threat. As soon as I moved, however, an electrical current surged through the gloved fingers clasped around my throat.
 
 "No," she warned, almost maternally.
 
@@ -172,9 +169,9 @@ Ursza repeated the same gesture and also bowed. "The honor is to serve," she rec
 
 My face flushed with embarrassment. Was that considered the proper way to address a blade dancer? I suddenly wished I had been better briefed or at least done some research beforehand. Fortunately, if she took any offense at my own lack of formality, she didn't show it.
 
-"May I present my war council? These are--for the purposes of this meeting--Kafer, my intelligence officer," he said, gesturing to the man on his right, "and Forgeran, one of my strategists." Both men stood and bowed politely. Ursza acknowledged them with only a slight nod. I, however, was truly impressed. It had been five years since signing on with the Notosian Liberation Army. Thus far, Hēi Gēzi had been the only member of the upper echelon that I had ever met personally. These three would only answer to the Chancellor himself. 
+"May I present my war council? These are--for the purposes of this meeting--Kafer, my intelligence officer," he said, gesturing to the man on his right, "and Forgeran, one of my strategists." Both men stood and bowed politely. Ursza acknowledged them with only a slight nod. I, however, was truly impressed. It had been five years since signing on with the Notosian Liberation Army. Thus far, Hēi Gēzi had been the only member of the upper echelon that I had ever met personally. These three would only answer to the Chancellor himself.
 
-With the introductions complete, Hēi Gēzi motioned for us to be seated. "First off, Blademaster, may I express my sincere thanks for not killing Chakal here?" he chortled. 
+With the introductions complete, Hēi Gēzi motioned for us to be seated. "First off, Blademaster, may I express my sincere thanks for not killing Chakal here?" he chortled.
 
 "No point," she said flatly. I took no offense.
 
@@ -294,7 +291,7 @@ That struck a nerve. Could it actually be remorse? Or was it just well-rehearsed
 
 "There are five tastes," she intoned rhythmically, "but more flavors than can ever be tasted. Haven't found mine yet."
 
-"Yeah, but do you enjoy this? Killing people for money, I mean?" I handed her one of the glasses which she took, reluctantly. 
+"Yeah, but do you enjoy this? Killing people for money, I mean?" I handed her one of the glasses which she took, reluctantly.
 
 She gingerly took a sip of water. "It's not about joy. It's survival."
 
@@ -320,7 +317,7 @@ She rolled her eyes and chuckled softly. "In hostile territory, you stick with y
 
 I suppose the debate would have gone on all night, and I must admit I was finding an outsider's point of view fascinating. Fortunately, my com panel beeped with a new message. The first enemy resistance movement was ready to meet with Ursza Venter. Whether she was interested in or even agreed with our politics, she was about to become deeply involved in them.
 
- __ 
+__
 
 1. Introductions
 2. Meeting with heads of Noto-Lib -- Chakal is promoted, order to assist Ursza and represent Noto-Lib in negotiating a conclave
@@ -334,4 +331,3 @@ I suppose the debate would have gone on all night, and I must admit I was findin
 10. Attacking Noto-Lib -- remaining leaders killed, confrontation with Halferne whom she suspects is not who he appears to be, Noto-Lib now under her control
 11. Prevo’s Betrayal -- Using knowledge and assistance from Ursza all along, Prevo tries to put the tech, construction, financial, and trade sectors under government control. Ursza and Chakal are arrested as traitors, sentenced to execution -- First rule of conspiracy = kill the conspirator.
 12. Finale -- As Chakal is executed, Ursza’s followers, thanks to Halferne’s manipulations with the surviving clans as well as the legitimate governor’s council, seize control of the government. “She is too valuable to loose, though I may have lost her already.” Orders Halferne arrested, he escapes in a ship. Quantum gate is destroyed as he flees the system.
-
